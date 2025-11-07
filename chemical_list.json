@@ -28,5 +28,95 @@
         "name_ua": "1,1-Дихлор-1-нітроетан",
         "full_label": "АК 005 - 1,1-Дихлор-1-нітроетан",
         "file_path": "cards/AK_005_1_1_Dikhlor_1_nitroetan.pdf"
+    },
+    {
+        "id": "AK_006",
+        "name_ua": "1,1-Дихлоретан",
+        "full_label": "АК 006 - 1,1-Дихлоретан",
+        "file_path": "cards/AK_006_1_1_Dikhlor_etan.pdf"
+    },
+    {
+        "id": "AK_007",
+        "name_ua": "1,2,3,6-Тетрагідробензальдегід",
+        "full_label": "АК 007 - 1,2,3,6-Тетрагідробензальдегід",
+        "file_path": "cards/AK_007_1_2_3_6_Tetragidrobenzaldegid.pdf"
+    },
+    {
+        "id": "AK_008",
+        "name_ua": "1,2,3,6-Тетрагідропіридин",
+        "full_label": "АК 008 - 1,2,3,6-Тетрагідропіридин",
+        "file_path": "cards/AK_008_1_2_3_6_Tetragidropiridin.pdf"
+    },
+    {
+        "id": "AK_009",
+        "name_ua": "1,2-Біс-(Диметиламіно)-Етан",
+        "full_label": "АК 009 - 1,2-Біс-(Диметиламіно)-Етан",
+        "file_path": "cards/AK_009_1_2_Bis_Dimetilamino_Etan.pdf"
+    },
+    {
+        "id": "AK_010",
+        "name_ua": "1,2-Дибром-3-Хлорпропан",
+        "full_label": "АК 010 - 1,2-Дибром-3-Хлорпропан",
+        "file_path": "cards/AK_010_1_2_Dibrom_3_Khlorpropan.pdf"
+    },
+    {
+        "id": "AK_011",
+        "name_ua": "1,2-Дибромбутанон-3",
+        "full_label": "АК 011 - 1,2-Дибромбутанон-3",
+        "file_path": "cards/AK_011_1_2_Dibrombutanon_3.pdf"
+    },
+    {
+        "id": "AK_012",
+        "name_ua": "1,2-Диметоксіетан",
+        "full_label": "АК 012 - 1,2-Диметоксіетан",
+        "file_path": "cards/AK_012_1_2_Dimetoksi_etan.pdf"
+    },
+    {
+        "id": "AK_013",
+        "name_ua": "1,2-Дихлоретан",
+        "full_label": "АК 013 - 1,2-Дихлоретан",
+        "file_path": "cards/AK_013_1_2_Dikhlor_etan.pdf"
+    },
+    {
+        "id": "AK_014",
+        "name_ua": "1,2-Дихлоретилен",
+        "full_label": "АК 014 - 1,2-Дихлоретилен",
+        "file_path": "cards/AK_014_1_2_Dikhlor_etilen.pdf"
+    },
+    {
+        "id": "AK_015",
+        "name_ua": "1,2-Епоксі-3-Етоксипропан",
+        "full_label": "АК 015 - 1,2-Епоксі-3-Етоксипропан",
+        "file_path": "cards/AK_015_1_2_Epoksi_3_Etoksipropan.pdf"
+    },
+    {
+        "id": "AK_016",
+        "name_ua": "1,3,5-Триметилбензол",
+        "full_label": "АК 016 - 1,3,5-Триметилбензол",
+        "file_path": "cards/AK_016_1_3_5_Trimetilbenzol.pdf"
+    },
+    {
+        "id": "AK_017",
+        "name_ua": "1,3-Диметилбутиламін",
+        "full_label": "АК 017 - 1,3-Диметилбутиламін",
+        "file_path": "cards/AK_017_1_3_Dimetilbutilamin.pdf"
+    },
+    {
+        "id": "AK_018",
+        "name_ua": "1,3-Дихлорацетон",
+        "full_label": "АК 018 - 1,3-Дихлорацетон",
+        "file_path": "cards/AK_018_1_3_Dikhloratseton.pdf"
+    },
+    {
+        "id": "AK_019",
+        "name_ua": "1,3-Дихлорпропанол-2",
+        "full_label": "АК 019 - 1,3-Дихлорпропанол-2",
+        "file_path": "cards/AK_019_1_3_Dikhlorpropanol_2.pdf"
+    },
+    {
+        "id": "AK_020",
+        "name_ua": "1,3-Дихлорпропен",
+        "full_label": "АК 020 - 1,3-Дихлорпропен",
+        "file_path": "cards/AK_020_1_3_Dikhlorpropen.pdf"
     }
 ]
