@@ -1,0 +1,32 @@
+[
+    {
+        "id": "AK_001",
+        "name_ua": "1,1,1-Трихлоретан",
+        "full_label": "АК 001 - 1,1,1-Трихлоретан",
+        "file_path": "cards/AK_001_1_1_1_Trikhloretan.pdf" 
+    },
+    {
+        "id": "AK_002",
+        "name_ua": "1,1,2,2-Тетраброметан",
+        "full_label": "АК 002 - 1,1,2,2-Тетраброметан",
+        "file_path": "cards/AK_002_1_1_2_2_Tetrabrometan.pdf"
+    },
+    {
+        "id": "AK_003",
+        "name_ua": "1,1-Диметилгідразин",
+        "full_label": "АК 003 - 1,1-Диметилгідразин",
+        "file_path": "cards/AK_003_1_1_Dimetilhidrazin.pdf"
+    },
+    {
+        "id": "AK_004",
+        "name_ua": "1,1-Диметоксиетан",
+        "full_label": "АК 004 - 1,1-Диметоксиетан",
+        "file_path": "cards/AK_004_1_1_Dimetoksietan.pdf"
+    },
+    {
+        "id": "AK_005",
+        "name_ua": "1,1-Дихлор-1-нітроетан",
+        "full_label": "АК 005 - 1,1-Дихлор-1-нітроетан",
+        "file_path": "cards/AK_005_1_1_Dikhlor_1_nitroetan.pdf"
+    }
+]

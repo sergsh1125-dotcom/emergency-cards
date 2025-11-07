@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>База Аварійних Карток НХР</title>
+    
+    <style>
+        /* ==================== ЗАГАЛЬНІ СТИЛІ ==================== */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #004d40;
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 1.8em;
+        }
+
+        /* ==================== ПОЛЕ ПОШУКУ ТА КНОПКИ ==================== */
+        #search-input, #instructions-btn {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            box-sizing: border-box; 
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        #search-input:focus {
+            border-color: #00796b; 
+            outline: none;
+        }
+        #instructions-btn {
+            background-color: #00796b;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-weight: bold;
+        }
+        #instructions-btn:hover {
+            background-color: #004d40;
+        }
+
+        /* ==================== СПИСОК (ЛІФТ) ==================== */
+        #chemicals-list-container {
+            height: 400px;
+            overflow-y: scroll; 
+            border: 1px solid #c8e6c9; 
+            border-radius: 8px;
+            background-color: white;
+            padding: 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        }
+        #chemicals-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        .chemical-item {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background-color 0.2s, color 0.2s;
+            font-size: 15px;
+        }
+        .chemical-item:hover {
+            background-color: #e0f2f1; 
+            color: #004d40;
+        }
+        .chemical-item:last-child {
+            border-bottom: none;
+        }
+        
+        #no-results, #loading-status {
+            padding: 15px;
+            text-align: center;
+            font-style: italic;
+        }
+        
+        /* ==================== ІНСТРУКЦІЯ ==================== */
+        #instructions-content {
+            background-color: #e8f5e9;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 10px;
+            border-left: 5px solid #004d40;
+        }
+
+        /* ==================== АДАПТИВНІСТЬ ==================== */
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            #chemicals-list-container {
+                height: 350px; 
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📖 База Аварійних Карток НХР</h1>
+        
+        <input type="text" id="search-input" placeholder="Пошук за назвою або номером картки...">
+        
+        <div id="chemicals-list-container">
+            <ul id="chemicals-list">
+                <li id="loading-status">Завантаження списку речовин...</li>
+            </ul>
+            <div id="no-results" style="display:none;">
+                Не знайдено жодної речовини, що відповідає критеріям.
+            </div>
+        </div>
+
+        <button id="instructions-btn">Інструкція користування</button>
+
+        <div id="instructions-content" style="display:none;">
+            <h3>Як користуватися програмою:</h3>
+            <ol>
+                <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
+                <li>Або прокрутіть повний список (ліфт) НХР.</li>
+                <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
+            </ol>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
