@@ -76,11 +76,30 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open(filePath, '_blank');
     }
 
-    // 5. Логіка кнопки "Інструкція"
-    instructionsButton.addEventListener('click', () => {
-        instructionsDiv.style.display = instructionsDiv.style.display === 'block' ? 'none' : 'block';
-    });
+    // app.js (фрагмент з функції 5. Логіка кнопки "Інструкція")
 
-    // Запускаємо завантаження даних
-    loadData();
+// ...
+// 5. Логіка кнопки "Інструкція"
+instructionsButton.addEventListener('click', () => {
+    const content = document.getElementById('instructions-content');
+    
+    // Вставте посилання на PDF у текст інструкції
+    content.innerHTML = `
+        <h3>Як користуватися програмою:</h3>
+        <ol>
+            <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
+            <li>Або прокрутіть повний список (ліфт) НХР.</li>
+            <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
+        </ol>
+        
+        <p style="margin-top: 15px; font-weight: bold;">
+            Детальніше про символи: 
+            <a href="cards/UKSEKSPRES_Symvols.pdf" target="_blank" style="color: #004d40;">
+                Завантажити довідник символів експрес-інформації
+            </a>
+        </p>
+    `;
+    // ...
+    instructionsDiv.style.display = instructionsDiv.style.display === 'block' ? 'none' : 'block';
 });
+// ...
