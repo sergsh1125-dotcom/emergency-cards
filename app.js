@@ -1,6 +1,7 @@
 // app.js
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Елементи інтерфейсу
     const searchInput = document.getElementById('search-input');
     const chemicalsList = document.getElementById('chemicals-list');
     const instructionsButton = document.getElementById('instructions-btn');
@@ -10,27 +11,35 @@ document.addEventListener('DOMContentLoaded', () => {
     
     let CHEMICAL_LIST_DATA = []; // Оригінальний масив даних
 
-    // 1. Асинхронне завантаження даних
+    // 1. Асинхронне завантаження даних (з надійною обробкою помилок)
     async function loadData() {
         try {
-            const response = await fetch('chemical_list.json');
+            // Шлях до файлу chemical_list.json
+            const response = await fetch('chemical_list.json'); 
             
             if (!response.ok) {
-                throw new Error(`Помилка HTTP: ${response.status}`);
+                // Виключення, якщо статус HTTP не 200 (наприклад, 404 Not Found)
+                throw new Error(`Помилка завантаження файлу. HTTP Статус: ${response.status}`);
             }
 
             CHEMICAL_LIST_DATA = await response.json();
             
-            // Сортування за алфавітом
+            // Сортування та рендеринг
             CHEMICAL_LIST_DATA.sort((a, b) => a.full_label.localeCompare(b.full_label));
-            
             renderList(CHEMICAL_LIST_DATA);
-            loadingStatus.remove(); // Видаляємо статус завантаження після успіху
+            
+            // Видаляємо статус завантаження
+            if(loadingStatus) loadingStatus.remove(); 
             
         } catch (error) {
-            console.error("Помилка завантаження списку НХР:", error);
+            console.error("Критична помилка завантаження списку НХР:", error);
+            
             if(loadingStatus) {
-                loadingStatus.textContent = `Помилка завантаження даних: ${error.message}. Перевірте chemical_list.json.`;
+                // Відображення детальної помилки користувачеві
+                loadingStatus.textContent = `Помилка завантаження даних. Будь ласка, перевірте: 
+                                            1. Чи існує файл 'chemical_list.json'. 
+                                            2. Чи правильно налаштована робота на вебсервері (GitHub Pages). 
+                                            Деталь: ${error.message}`;
                 loadingStatus.style.color = 'red';
             }
         }
@@ -76,30 +85,30 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open(filePath, '_blank');
     }
 
-    // app.js (фрагмент з функції 5. Логіка кнопки "Інструкція")
-
-// ...
-// 5. Логіка кнопки "Інструкція"
-instructionsButton.addEventListener('click', () => {
-    const content = document.getElementById('instructions-content');
-    
-    // Вставте посилання на PDF у текст інструкції
-    content.innerHTML = `
-        <h3>Як користуватися програмою:</h3>
-        <ol>
-            <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
-            <li>Або прокрутіть повний список (ліфт) НХР.</li>
-            <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
-        </ol>
+    // 5. Логіка кнопки "Інструкція" (ВКЛЮЧАЄ ПОСИЛАННЯ НА СИМВОЛИ)
+    instructionsButton.addEventListener('click', () => {
+        const content = document.getElementById('instructions-content');
         
-        <p style="margin-top: 15px; font-weight: bold;">
-            Детальніше про символи: 
-            <a href="cards/UKSEKSPRES_Symvols.pdf" target="_blank" style="color: #004d40;">
-                Завантажити довідник символів експрес-інформації
-            </a>
-        </p>
-    `;
-    // ...
-    instructionsDiv.style.display = instructionsDiv.style.display === 'block' ? 'none' : 'block';
+        // Вміст інструкції з доданим посиланням на довідник символів
+        content.innerHTML = `
+            <h3>Як користуватися програмою:</h3>
+            <ol>
+                <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
+                <li>Або прокрутіть повний список (ліфт) НХР.</li>
+                <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
+            </ol>
+            
+            <p style="margin-top: 15px; font-weight: bold;">
+                Детальніше про символи: 
+                <a href="cards/UKSEKSPRES_Symvols.pdf" target="_blank" style="color: #004d40;">
+                    Завантажити довідник символів експрес-інформації
+                </a>
+            </p>
+        `;
+        
+        instructionsDiv.style.display = instructionsDiv.style.display === 'block' ? 'none' : 'block';
+    });
+
+    // Запускаємо завантаження даних
+    loadData();
 });
-// ...
