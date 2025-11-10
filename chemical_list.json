@@ -118,5 +118,185 @@
         "name_ua": "1,3-Дихлорпропен",
         "full_label": "АК 020 - 1,3-Дихлорпропен",
         "file_path": "cards/AK_020_1_3_Dikhlorpropen.pdf"
+    },
+    {
+        "id": "AK_021",
+        "name_ua": "1,3-Діоксолан",
+        "full_label": "АК 021 - 1,3-Діоксолан",
+        "file_path": "cards/AK_021_1_3_Dioksolan.pdf"
+    },
+    {
+        "id": "AK_022",
+        "name_ua": "1,4-Дихлорбензол",
+        "full_label": "АК 022 - 1,4-Дихлорбензол",
+        "file_path": "cards/AK_022_1_4_Dikhlorbenzol.pdf"
+    },
+    {
+        "id": "AK_023",
+        "name_ua": "1,5-Дихлорпентан",
+        "full_label": "АК 023 - 1,5-Дихлорпентан",
+        "file_path": "cards/AK_023_1_5_Dikhlorpentan.pdf"
+    },
+    {
+        "id": "AK_024",
+        "name_ua": "1-Бром-3-Метилбутан",
+        "full_label": "АК 024 - 1-Бром-3-Метилбутан",
+        "file_path": "cards/AK_024_1_Brom_3_Metilbutan.pdf"
+    },
+    {
+        "id": "AK_025",
+        "name_ua": "1-Метилпіперидин",
+        "full_label": "АК 025 - 1-Метилпіперидин",
+        "file_path": "cards/AK_025_1_Metilpiperidin.pdf"
+    },
+    {
+        "id": "AK_026",
+        "name_ua": "1-Бром-3-Хлорпропан",
+        "full_label": "АК 026 - 1-Бром-3-Хлорпропан",
+        "file_path": "cards/AK_026_1_Brom_3_Khlorpropan.pdf"
+    },
+    {
+        "id": "AK_027",
+        "name_ua": "1-Хлорпропан",
+        "full_label": "АК 027 - 1-Хлорпропан",
+        "file_path": "cards/AK_027_1_Khlorpropan.pdf"
+    },
+    {
+        "id": "AK_028",
+        "name_ua": "2,3-Дигідропіран",
+        "full_label": "АК 028 - 2,3-Дигідропіран",
+        "file_path": "cards/AK_028_2_3_Digidropiran.pdf"
+    },
+    {
+        "id": "AK_029",
+        "name_ua": "2,4-Толуілендіамін",
+        "full_label": "АК 029 - 2,4-Толуілендіамін",
+        "file_path": "cards/AK_029_2_4_Toluilendiamin.pdf"
+    },
+    {
+        "id": "AK_030",
+        "name_ua": "2,4-Толуілендіізоціанат",
+        "full_label": "АК 030 - 2,4-Толуілендіізоціанат",
+        "file_path": "cards/AK_030_2_4_Toluilendiizotsianat.pdf"
+    },
+    {
+        "id": "AK_031",
+        "name_ua": "2-Бромбутан",
+        "full_label": "АК 031 - 2-Бромбутан",
+        "file_path": "cards/AK_031_2_Brombutan.pdf"
+    },
+    {
+        "id": "AK_032",
+        "name_ua": "2-Брометилетиловий Етер",
+        "full_label": "АК 032 - 2-Брометилетиловий Етер",
+        "file_path": "cards/AK_032_2_Brometetiloviy_Eter.pdf"
+    },
+    {
+        "id": "AK_033",
+        "name_ua": "2-Етиланілін",
+        "full_label": "АК 033 - 2-Етиланілін",
+        "file_path": "cards/AK_033_2_Etilanilin.pdf"
+    },
+    {
+        "id": "AK_034",
+        "name_ua": "2-Етилбутанол",
+        "full_label": "АК 034 - 2-Етилбутанол",
+        "file_path": "cards/AK_034_2_Etilbutanol.pdf"
+    },
+    {
+        "id": "AK_035",
+        "name_ua": "2-Етилгексиламін",
+        "full_label": "АК 035 - 2-Етилгексиламін",
+        "file_path": "cards/AK_035_2_Etilgeksilamin.pdf"
+    },
+    {
+        "id": "AK_036",
+        "name_ua": "2-Етилгексилхлорформіат",
+        "full_label": "АК 036 - 2-Етилгексилхлорформіат",
+        "file_path": "cards/AK_036_2_Etilgeksilkhlorformiat.pdf"
+    },
+    {
+        "id": "AK_037",
+        "name_ua": "2-Етилкапрональдегід",
+        "full_label": "АК 037 - 2-Етилкапрональдегід",
+        "file_path": "cards/AK_037_2_Etilkapronaldehid.pdf"
+    },
+    {
+        "id": "AK_038",
+        "name_ua": "2-Метил-5-Етилпіридин",
+        "full_label": "АК 038 - 2-Метил-5-Етилпіридин",
+        "file_path": "cards/AK_038_2_Metil_5_Etilpiridin.pdf"
+    },
+    {
+        "id": "AK_039",
+        "name_ua": "2-Метилбутен-1",
+        "full_label": "АК 039 - 2-Метилбутен-1",
+        "file_path": "cards/AK_039_2_Metilbuten_1.pdf"
+    },
+    {
+        "id": "AK_040",
+        "name_ua": "2-Метилбутираль",
+        "full_label": "АК 040 - 2-Метилбутираль",
+        "file_path": "cards/AK_040_2_Metilbutiral.pdf"
+    },
+    {
+        "id": "AK_041",
+        "name_ua": "2-Метилфуран",
+        "full_label": "АК 041 - 2-Метилфуран",
+        "file_path": "cards/AK_041_2_Metilfuran.pdf"
+    },
+    {
+        "id": "AK_042",
+        "name_ua": "2-Піколін",
+        "full_label": "АК 042 - 2-Піколін",
+        "file_path": "cards/AK_042_2_Pikolin.pdf"
+    },
+    {
+        "id": "AK_043",
+        "name_ua": "2-Хлорпіридин",
+        "full_label": "АК 043 - 2-Хлорпіридин",
+        "file_path": "cards/AK_043_2_Khlorpiridin.pdf"
+    },
+    {
+        "id": "AK_044",
+        "name_ua": "2-Хлорпропен",
+        "full_label": "АК 044 - 2-Хлорпропен",
+        "file_path": "cards/AK_044_2_Khlorpropen.pdf"
+    },
+    {
+        "id": "AK_045",
+        "name_ua": "3,3-Діетоксіпропен",
+        "full_label": "АК 045 - 3,3-Діетоксіпропен",
+        "file_path": "cards/AK_045_3_3_Dietoksipropen.pdf"
+    },
+    {
+        "id": "AK_046",
+        "name_ua": "3,3'-Імінодипропіламін",
+        "full_label": "АК 046 - 3,3'-Імінодипропіламін",
+        "file_path": "cards/AK_046_3_3_Iminodipropilamin.pdf"
+    },
+    {
+        "id": "AK_047",
+        "name_ua": "3,4-Дихлорфенілізоціанат",
+        "full_label": "АК 047 - 3,4-Дихлорфенілізоціанат",
+        "file_path": "cards/AK_047_3_4_Dikhlorfenilizotsianat.pdf"
+    },
+    {
+        "id": "AK_048",
+        "name_ua": "3-Бромпропін",
+        "full_label": "АК 048 - 3-Бромпропін",
+        "file_path": "cards/AK_048_3_Brompropin.pdf"
+    },
+    {
+        "id": "AK_049",
+        "name_ua": "3-Метилбутанон-2",
+        "full_label": "АК 049 - 3-Метилбутанон-2",
+        "file_path": "cards/AK_049_3_Metilbutanon_2.pdf"
+    },
+    {
+        "id": "AK_050",
+        "name_ua": "3-Нітро-4-Хлорбензотрифторид",
+        "full_label": "АК 050 - 3-Нітро-4-Хлорбензотрифторид",
+        "file_path": "cards/AK_050_3_Nitro_4_Khlorbenzotriftorid.pdf"
     }
 ]
