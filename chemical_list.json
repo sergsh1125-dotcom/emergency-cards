@@ -298,5 +298,305 @@
         "name_ua": "3-Нітро-4-Хлорбензотрифторид",
         "full_label": "АК 050 - 3-Нітро-4-Хлорбензотрифторид",
         "file_path": "cards/AK_050_3_Nitro_4_Khlorbenzotriftorid.pdf"
+    },
+    {
+        "id": "AK_051",
+        "name_ua": "3-Хлор-1-Пропанол",
+        "full_label": "АК 051 - 3-Хлор-1-Пропанол",
+        "file_path": "cards/AK_051_3_Khlor_1_Propanol.pdf"
+    },
+    {
+        "id": "AK_052",
+        "name_ua": "4,4'-Діамінодифенілметан",
+        "full_label": "АК 052 - 4,4'-Діамінодифенілметан",
+        "file_path": "cards/AK_052_4_4_Diaminodifenilmetan.pdf"
+    },
+    {
+        "id": "AK_053",
+        "name_ua": "4-Метокси-4-Метилпентан-2-Он",
+        "full_label": "АК 053 - 4-Метокси-4-Метилпентан-2-Он",
+        "file_path": "cards/AK_053_4_Metoksi_4_Metilpentan_2_On.pdf"
+    },
+    {
+        "id": "AK_054",
+        "name_ua": "N,N-Бутилімідазол",
+        "full_label": "АК 054 - N,N-Бутилімідазол",
+        "file_path": "cards/AK_054_N_N_Butilimidazol.pdf"
+    },
+    {
+        "id": "AK_055",
+        "name_ua": "N,N-Диметиланілін",
+        "full_label": "АК 055 - N,N-Диметиланілін",
+        "file_path": "cards/AK_055_N_N_Dimetilanilin.pdf"
+    },
+    {
+        "id": "AK_056",
+        "name_ua": "N,N-Диметилпропіламін",
+        "full_label": "АК 056 - N,N-Диметилпропіламін",
+        "file_path": "cards/AK_056_N_N_Dimetilpropilamin.pdf"
+    },
+    {
+        "id": "AK_057",
+        "name_ua": "N,N-Диметилформамід",
+        "full_label": "АК 057 - N,N-Диметилформамід",
+        "file_path": "cards/AK_057_N_N_Dimetilformamid.pdf"
+    },
+    {
+        "id": "AK_058",
+        "name_ua": "N,N-Діетилетилендіамін",
+        "full_label": "АК 058 - N,N-Діетилетилендіамін",
+        "file_path": "cards/AK_058_N_N_Dietiletilendiamin.pdf"
+    },
+    {
+        "id": "AK_059",
+        "name_ua": "N,N- Діізопропілетаноламін",
+        "full_label": "АК 059 - N,N- Діізопропілетаноламін",
+        "file_path": "cards/AK_059_N_N_Diizopropiletanolamin.pdf"
+    },
+    {
+        "id": "AK_060",
+        "name_ua": "N-Аміноетилпіперазин",
+        "full_label": "АК 060 - N-Аміноетилпіперазин",
+        "file_path": "cards/AK_060_N_Aminoetilpiperazin.pdf"
+    },
+    {
+        "id": "AK_061",
+        "name_ua": "N-Етил-N-Бензиланілін",
+        "full_label": "АК 061 - N-Етил-N-Бензиланілін",
+        "file_path": "cards/AK_061_N_Etil_N_Benzilanilin.pdf"
+    },
+    {
+        "id": "AK_062",
+        "name_ua": "N-Етилтолуідин",
+        "full_label": "АК 062 - N-Етилтолуідин",
+        "file_path": "cards/AK_062_N_Etiltoluidin.pdf"
+    },
+    {
+        "id": "AK_063",
+        "name_ua": "Адипонітрил",
+        "full_label": "АК 063 - Адипонітрил",
+        "file_path": "cards/AK_063_Adiponitril.pdf"
+    },
+    {
+        "id": "AK_064",
+        "name_ua": "Азот, Зріджений",
+        "full_label": "АК 064 - Азот, Зріджений",
+        "file_path": "cards/AK_064_Azot_Zridzheniy.pdf"
+    },
+    {
+        "id": "AK_065",
+        "name_ua": "Азотна Кислота, Димляча",
+        "full_label": "АК 065 - Азотна Кислота, Димляча",
+        "file_path": "cards/AK_065_Azotna_Kislota_Dimlyacha.pdf"
+    },
+    {
+        "id": "AK_066",
+        "name_ua": "Акриламід",
+        "full_label": "АК 066 - Акриламід",
+        "file_path": "cards/AK_066_Akrilamid.pdf"
+    },
+    {
+        "id": "AK_067",
+        "name_ua": "Акрилова Кислота",
+        "full_label": "АК 067 - Акрилова Кислота",
+        "file_path": "cards/AK_067_Akrilova_Kislota.pdf"
+    },
+    {
+        "id": "AK_068",
+        "name_ua": "Акрилонітрил",
+        "full_label": "АК 068 - Акрилонітрил",
+        "file_path": "cards/AK_068_Akrilnitril.pdf"
+    },
+    {
+        "id": "AK_069",
+        "name_ua": "Акролеін, Стабілізований",
+        "full_label": "АК 069 - Акролеін, Стабілізований",
+        "file_path": "cards/AK_069_Akrolein_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_070",
+        "name_ua": "Аліламін",
+        "full_label": "АК 070 - Аліламін",
+        "file_path": "cards/AK_070_Alilamin.pdf"
+    },
+    {
+        "id": "AK_071",
+        "name_ua": "Алілацетат",
+        "full_label": "АК 071 - Алілацетат",
+        "file_path": "cards/AK_071_Alilatsitat.pdf"
+    },
+    {
+        "id": "AK_072",
+        "name_ua": "Алілетиловий Етер",
+        "full_label": "АК 072 - Алілетиловий Етер",
+        "file_path": "cards/AK_072_Aliletiloviy_Eter.pdf"
+    },
+    {
+        "id": "AK_073",
+        "name_ua": "Алілізотіоціанат, Стабілізований",
+        "full_label": "АК 073 - Алілізотіоціанат, Стабілізований",
+        "file_path": "cards/AK_073_Alilizotsianat_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_074",
+        "name_ua": "Алілйодид",
+        "full_label": "АК 074 - Алілйодид",
+        "file_path": "cards/AK_074_Alilyodid.pdf"
+    },
+    {
+        "id": "AK_075",
+        "name_ua": "Аліловий Спирт",
+        "full_label": "АК 075 - Аліловий Спирт",
+        "file_path": "cards/AK_075_Aliloviy_Spirt.pdf"
+    },
+    {
+        "id": "AK_076",
+        "name_ua": "Алілформіат",
+        "full_label": "АК 076 - Алілформіат",
+        "file_path": "cards/AK_076_Alilformiat.pdf"
+    },
+    {
+        "id": "AK_077",
+        "name_ua": "Алілхлорид",
+        "full_label": "АК 077 - Алілхлорид",
+        "file_path": "cards/AK_077_Alilkhlorid.pdf"
+    },
+    {
+        "id": "AK_078",
+        "name_ua": "Алілхлорформіат",
+        "full_label": "АК 078 - Алілхлорформіат",
+        "file_path": "cards/AK_078_Alilkhlorformiat.pdf"
+    },
+    {
+        "id": "AK_079",
+        "name_ua": "Алкілований Фенол",
+        "full_label": "АК 079 - Алкілований Фенол",
+        "file_path": "cards/AK_079_Alkilovaniy_Fenol.pdf"
+    },
+    {
+        "id": "AK_080",
+        "name_ua": "Алкілсульфонова Кислота",
+        "full_label": "АК 080 - Алкілсульфонова Кислота",
+        "file_path": "cards/AK_080_Alkilsulfonova_Kislota.pdf"
+    },
+    {
+        "id": "AK_081",
+        "name_ua": "Альдоль",
+        "full_label": "АК 081 - Альдоль",
+        "file_path": "cards/AK_081_Aldol.pdf"
+    },
+    {
+        "id": "AK_082",
+        "name_ua": "Альдрін",
+        "full_label": "АК 082 - Альдрін",
+        "file_path": "cards/AK_082_Aldrin.pdf"
+    },
+    {
+        "id": "AK_083",
+        "name_ua": "Альфа-Бромбензилціанід",
+        "full_label": "АК 083 - Альфа-Бромбензилціанід",
+        "file_path": "cards/AK_083_Alfa_Brombenziltsianid.pdf"
+    },
+    {
+        "id": "AK_084",
+        "name_ua": "Альфа-Хлорпропіонова Кислота",
+        "full_label": "АК 084 - Альфа-Хлорпропіонова Кислота",
+        "file_path": "cards/AK_084_Alfa_Khlorpropionova_Kislota.pdf"
+    },
+    {
+        "id": "AK_085",
+        "name_ua": "Алюміній, Порошок",
+        "full_label": "АК 085 - Алюміній, Порошок",
+        "file_path": "cards/AK_085_Alyuminiy_Poroshok.pdf"
+    },
+    {
+        "id": "AK_086",
+        "name_ua": "Алюмінію Алкілгалогеніди",
+        "full_label": "АК 086 - Алюмінію Алкілгалогеніди",
+        "file_path": "cards/AK_086_Alyuminiyu_Alkilgalogenidi.pdf"
+    },
+    {
+        "id": "AK_087",
+        "name_ua": "Алюмінію Фосфід",
+        "full_label": "АК 087 - Алюмінію Фосфід",
+        "file_path": "cards/AK_087_Alyuminiyu_Fosfid.pdf"
+    },
+    {
+        "id": "AK_088",
+        "name_ua": "Алюмінію Хлорид, Безводний",
+        "full_label": "АК 088 - Алюмінію Хлорид, Безводний",
+        "file_path": "cards/AK_088_Alyuminiyu_Khlorid_Bezvodniy.pdf"
+    },
+    {
+        "id": "AK_089",
+        "name_ua": "Алюмінію Хлорид, Розчин",
+        "full_label": "АК 089 - Алюмінію Хлорид, Розчин",
+        "file_path": "cards/AK_089_Alyuminiyu_Khlorid_Rozchin.pdf"
+    },
+    {
+        "id": "AK_090",
+        "name_ua": "Амілбутират",
+        "full_label": "АК 090 - Амілбутират",
+        "file_path": "cards/AK_090_Amilbutirat.pdf"
+    },
+    {
+        "id": "AK_091",
+        "name_ua": "Амілен-1",
+        "full_label": "АК 091 - Амілен-1",
+        "file_path": "cards/AK_091_Amilen_1.pdf"
+    },
+    {
+        "id": "AK_092",
+        "name_ua": "Амілнітрат",
+        "full_label": "АК 092 - Амілнітрат",
+        "file_path": "cards/AK_092_Amilnitrat.pdf"
+    },
+    {
+        "id": "AK_093",
+        "name_ua": "Амілнітрит",
+        "full_label": "АК 093 - Амілнітрит",
+        "file_path": "cards/AK_093_Amilnitrit.pdf"
+    },
+    {
+        "id": "AK_094",
+        "name_ua": "Аміловий Спирт",
+        "full_label": "АК 094 - Аміловий Спирт",
+        "file_path": "cards/AK_094_Amiloviy_Spirt.pdf"
+    },
+    {
+        "id": "AK_095",
+        "name_ua": "Амінофенол",
+        "full_label": "АК 095 - Амінофенол",
+        "file_path": "cards/AK_095_Aminofenol.pdf"
+    },
+    {
+        "id": "AK_096",
+        "name_ua": "Амоніак, Безводний",
+        "full_label": "АК 096 - Амоніак, Безводний",
+        "file_path": "cards/AK_096_Amoniak_Bezvodniy.pdf"
+    },
+    {
+        "id": "AK_097",
+        "name_ua": "Амоніак, Розчин",
+        "full_label": "АК 097 - Амоніак, Розчин",
+        "file_path": "cards/AK_097_Amoniak_Rozchin.pdf"
+    },
+    {
+        "id": "AK_098",
+        "name_ua": "Амонію Біфторид",
+        "full_label": "АК 098 - Амонію Біфторид",
+        "file_path": "cards/AK_098_Amoniyu_Biftorid.pdf"
+    },
+    {
+        "id": "AK_099",
+        "name_ua": "Амонію Гідросульфат",
+        "full_label": "АК 099 - Амонію Гідросульфат",
+        "file_path": "cards/AK_099_Amoniyu_Gidrosulfat.pdf"
+    },
+    {
+        "id": "AK_100",
+        "name_ua": "Амонію Дихромат",
+        "full_label": "АК 100 - Амонію Дихромат",
+        "file_path": "cards/AK_100_Amoniyu_Dikhromat.pdf"
     }
 ]
