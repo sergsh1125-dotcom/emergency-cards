@@ -3,7 +3,7 @@
         "id": "AK_001",
         "name_ua": "1,1,1-Трихлоретан",
         "full_label": "АК 001 - 1,1,1-Трихлоретан",
-        "file_path": "cards/AK_001_1_1_1_Trikhloretan.pdf" 
+        "file_path": "cards/AK_001_1_1_1_Trikhloretan.pdf"
     },
     {
         "id": "AK_002",
@@ -598,5 +598,605 @@
         "name_ua": "Амонію Дихромат",
         "full_label": "АК 100 - Амонію Дихромат",
         "file_path": "cards/AK_100_Amoniyu_Dikhromat.pdf"
+    },
+    {
+        "id": "AK_101",
+        "name_ua": "Амонію Нітрат",
+        "full_label": "АК 101 - Амонію Нітрат",
+        "file_path": "cards/AK_101_Amoniyu_Nitrat.pdf"
+    },
+    {
+        "id": "AK_102",
+        "name_ua": "Амонію Персульфат",
+        "full_label": "АК 102 - Амонію Персульфат",
+        "file_path": "cards/AK_102_Amoniyu_Persulfat.pdf"
+    },
+    {
+        "id": "AK_103",
+        "name_ua": "Амонію Перхлорат",
+        "full_label": "АК 103 - Амонію Перхлорат",
+        "file_path": "cards/AK_103_Amoniyu_Perkhlorat.pdf"
+    },
+    {
+        "id": "AK_104",
+        "name_ua": "Амонію Сульфід, Розчин",
+        "full_label": "АК 104 - Амонію Сульфід, Розчин",
+        "file_path": "cards/AK_104_Amoniyu_Sulfid_Rozchin.pdf"
+    },
+    {
+        "id": "AK_105",
+        "name_ua": "Амонію Фторосилікат",
+        "full_label": "АК 105 - Амонію Фторосилікат",
+        "file_path": "cards/AK_105_Amoniyu_Ftorosilikat.pdf"
+    },
+    {
+        "id": "AK_106",
+        "name_ua": "Ангідрид Ізомасляної Кислоти",
+        "full_label": "АК 106 - Ангідрид Ізомасляної Кислоти",
+        "file_path": "cards/AK_106_Angidrid_Izomaslyanoyi_Kisloti.pdf"
+    },
+    {
+        "id": "AK_107",
+        "name_ua": "Ангідрид Масляної Кислоти",
+        "full_label": "АК 107 - Ангідрид Масляної Кислоти",
+        "file_path": "cards/AK_107_Angidrid_Maslyanoyi_Kisloti.pdf"
+    },
+    {
+        "id": "AK_108",
+        "name_ua": "Ангідрид Пропіонової Кислоти",
+        "full_label": "АК 108 - Ангідрид Пропіонової Кислоти",
+        "file_path": "cards/AK_108_Angidrid_Propionovoyi_Kisloti.pdf"
+    },
+    {
+        "id": "AK_109",
+        "name_ua": "Ангідрид Тетрагідрофталевої Кислоти",
+        "full_label": "АК 109 - Ангідрид Тетрагідрофталевої Кислоти",
+        "file_path": "cards/AK_109_Angidrid_Tetragidroftalevoyi_Kisloti.pdf"
+    },
+    {
+        "id": "AK_110",
+        "name_ua": "Анізидин",
+        "full_label": "АК 110 - Анізидин",
+        "file_path": "cards/AK_110_Anizidin.pdf"
+    },
+    {
+        "id": "AK_111",
+        "name_ua": "Анізоілхлорид",
+        "full_label": "АК 111 - Анізоілхлорид",
+        "file_path": "cards/AK_111_Anizoilkhlorid.pdf"
+    },
+    {
+        "id": "AK_112",
+        "name_ua": "Анізол",
+        "full_label": "АК 112 - Анізол",
+        "file_path": "cards/AK_112_Anizol.pdf"
+    },
+    {
+        "id": "AK_113",
+        "name_ua": "Анілін",
+        "full_label": "АК 113 - Анілін",
+        "file_path": "cards/AK_113_Anilin.pdf"
+    },
+    {
+        "id": "AK_114",
+        "name_ua": "Арсенатна Кислота",
+        "full_label": "АК 114 - Арсенатна Кислота",
+        "file_path": "cards/AK_114_Arsenatna_Kislota.pdf"
+    },
+    {
+        "id": "AK_115",
+        "name_ua": "Арсену Сполуки, Рідкі",
+        "full_label": "АК 115 - Арсену Сполуки, Рідкі",
+        "file_path": "cards/AK_115_Arsenu_Spoluki_Ridki.pdf"
+    },
+    {
+        "id": "AK_116",
+        "name_ua": "Арсену Триоксид",
+        "full_label": "АК 116 - Арсену Триоксид",
+        "file_path": "cards/AK_116_Arsenu_Trioksid.pdf"
+    },
+    {
+        "id": "AK_117",
+        "name_ua": "Арсену Трихлорид",
+        "full_label": "АК 117 - Арсену Трихлорид",
+        "file_path": "cards/AK_117_Arsenu_Trikhlorid.pdf"
+    },
+    {
+        "id": "AK_118",
+        "name_ua": "Арсин",
+        "full_label": "АК 118 - Арсин",
+        "file_path": "cards/AK_118_Arsin.pdf"
+    },
+    {
+        "id": "AK_119",
+        "name_ua": "Ацеталь",
+        "full_label": "АК 119 - Ацеталь",
+        "file_path": "cards/AK_119_Atsetal.pdf"
+    },
+    {
+        "id": "AK_120",
+        "name_ua": "Ацетальдегід",
+        "full_label": "АК 120 - Ацетальдегід",
+        "file_path": "cards/AK_120_Atsetaldegid.pdf"
+    },
+    {
+        "id": "AK_121",
+        "name_ua": "Ацетальдегідоксим",
+        "full_label": "АК 121 - Ацетальдегідоксим",
+        "file_path": "cards/AK_121_Atsetaldegidoksim.pdf"
+    },
+    {
+        "id": "AK_122",
+        "name_ua": "Ацетилацетон",
+        "full_label": "АК 122 - Ацетилацетон",
+        "file_path": "cards/AK_122_Atsetilatseton.pdf"
+    },
+    {
+        "id": "AK_123",
+        "name_ua": "Ацетилен",
+        "full_label": "АК 123 - Ацетилен",
+        "file_path": "cards/AK_123_Atsetilen.pdf"
+    },
+    {
+        "id": "AK_124",
+        "name_ua": "Ацетилметилкарбінол",
+        "full_label": "АК 124 - Ацетилметилкарбінол",
+        "file_path": "cards/AK_124_Atsetilmetilkarbinol.pdf"
+    },
+    {
+        "id": "AK_125",
+        "name_ua": "Ацетилхлорид",
+        "full_label": "АК 125 - Ацетилхлорид",
+        "file_path": "cards/AK_125_Atsetilkhlorid.pdf"
+    },
+    {
+        "id": "AK_126",
+        "name_ua": "Ацетон",
+        "full_label": "АК 126 - Ацетон",
+        "file_path": "cards/AK_126_Atseton.pdf"
+    },
+    {
+        "id": "AK_127",
+        "name_ua": "Ацетонціангідрин, Стабілізований",
+        "full_label": "АК 127 - Ацетонціангідрин, Стабілізований",
+        "file_path": "cards/AK_127_Atsetontsianhidrin_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_128",
+        "name_ua": "Барій",
+        "full_label": "АК 128 - Барій",
+        "file_path": "cards/AK_128_Bariy.pdf"
+    },
+    {
+        "id": "AK_129",
+        "name_ua": "Барію Азид",
+        "full_label": "АК 129 - Барію Азид",
+        "file_path": "cards/AK_129_Bariyu_Azid.pdf"
+    },
+    {
+        "id": "AK_130",
+        "name_ua": "Барію Карбонат",
+        "full_label": "АК 130 - Барію Карбонат",
+        "file_path": "cards/AK_130_Bariyu_Karbonat.pdf"
+    },
+    {
+        "id": "AK_131",
+        "name_ua": "Барію Нітрат",
+        "full_label": "АК 131 - Барію Нітрат",
+        "file_path": "cards/AK_131_Bariyu_Nitrat.pdf"
+    },
+    {
+        "id": "AK_132",
+        "name_ua": "Барію Оксид",
+        "full_label": "АК 132 - Барію Оксид",
+        "file_path": "cards/AK_132_Bariyu_Oksid.pdf"
+    },
+    {
+        "id": "AK_133",
+        "name_ua": "Барію Пероксид",
+        "full_label": "АК 133 - Барію Пероксид",
+        "file_path": "cards/AK_133_Bariyu_Peroksid.pdf"
+    },
+    {
+        "id": "AK_134",
+        "name_ua": "Барію Перхлорат",
+        "full_label": "АК 134 - Барію Перхлорат",
+        "file_path": "cards/AK_134_Bariyu_Perkhlorat.pdf"
+    },
+    {
+        "id": "AK_135",
+        "name_ua": "Барію Хлорат",
+        "full_label": "АК 135 - Барію Хлорат",
+        "file_path": "cards/AK_135_Bariyu_Khlorat.pdf"
+    },
+    {
+        "id": "AK_136",
+        "name_ua": "Барію Ціанід",
+        "full_label": "АК 136 - Барію Ціанід",
+        "file_path": "cards/AK_136_Bariyu_Tsianid.pdf"
+    },
+    {
+        "id": "AK_137",
+        "name_ua": "Бензидин",
+        "full_label": "АК 137 - Бензидин",
+        "file_path": "cards/AK_137_Benzidin.pdf"
+    },
+    {
+        "id": "AK_138",
+        "name_ua": "Бензиламін",
+        "full_label": "АК 138 - Бензиламін",
+        "file_path": "cards/AK_138_Benzilamin.pdf"
+    },
+    {
+        "id": "AK_139",
+        "name_ua": "Бензилбромід",
+        "full_label": "АК 139 - Бензилбромід",
+        "file_path": "cards/AK_139_Benzilbromid.pdf"
+    },
+    {
+        "id": "AK_140",
+        "name_ua": "Бензилдиметиламін",
+        "full_label": "АК 140 - Бензилдиметиламін",
+        "file_path": "cards/AK_140_Benzildimetilamin.pdf"
+    },
+    {
+        "id": "AK_141",
+        "name_ua": "Бензиліденхлорид",
+        "full_label": "АК 141 - Бензиліденхлорид",
+        "file_path": "cards/AK_141_Benzilidenkhlorid.pdf"
+    },
+    {
+        "id": "AK_142",
+        "name_ua": "Бензилхлорформіат",
+        "full_label": "АК 142 - Бензилхлорформіат",
+        "file_path": "cards/AK_142_Benzilkhlorformiat.pdf"
+    },
+    {
+        "id": "AK_143",
+        "name_ua": "Бензилціанід, Рідкий",
+        "full_label": "АК 143 - Бензилціанід, Рідкий",
+        "file_path": "cards/AK_143_Benziltsianid_Ridkiy.pdf"
+    },
+    {
+        "id": "AK_144",
+        "name_ua": "Бензин Моторний, Неетильований",
+        "full_label": "АК 144 - Бензин Моторний, Неетильований",
+        "file_path": "cards/AK_144_Benzin_Motorniy_Neetilovaniy.pdf"
+    },
+    {
+        "id": "AK_145",
+        "name_ua": "Бензоілхлорид",
+        "full_label": "АК 145 - Бензоілхлорид",
+        "file_path": "cards/AK_145_Benzoilkhlorid.pdf"
+    },
+    {
+        "id": "AK_146",
+        "name_ua": "Бензол",
+        "full_label": "АК 146 - Бензол",
+        "file_path": "cards/AK_146_Benzol.pdf"
+    },
+    {
+        "id": "AK_147",
+        "name_ua": "Бензонітрил",
+        "full_label": "АК 147 - Бензонітрил",
+        "file_path": "cards/AK_147_Benzonitril.pdf"
+    },
+    {
+        "id": "AK_148",
+        "name_ua": "Бензосульфонілхлорид",
+        "full_label": "АК 148 - Бензосульфонілхлорид",
+        "file_path": "cards/AK_148_Benzosulfonilkhlorid.pdf"
+    },
+    {
+        "id": "AK_149",
+        "name_ua": "Бензотрихлорид",
+        "full_label": "АК 149 - Бензотрихлорид",
+        "file_path": "cards/AK_149_Benzotrikhlorid.pdf"
+    },
+    {
+        "id": "AK_150",
+        "name_ua": "Бензохінон",
+        "full_label": "АК 150 - Бензохінон",
+        "file_path": "cards/AK_150_Benzokhinon.pdf"
+    },
+    {
+        "id": "AK_151",
+        "name_ua": "Берилію Сполуки",
+        "full_label": "АК 151 - Берилію Сполуки",
+        "file_path": "cards/AK_151_Beriliyu_Spoluki.pdf"
+    },
+    {
+        "id": "AK_152",
+        "name_ua": "Бета-Нафтиламін",
+        "full_label": "АК 152 - Бета-Нафтиламін",
+        "file_path": "cards/AK_152_Beta_Naftilamin.pdf"
+    },
+    {
+        "id": "AK_153",
+        "name_ua": "Бору Трибромід",
+        "full_label": "АК 153 - Бору Трибромід",
+        "file_path": "cards/AK_153_Boru_Tribromid.pdf"
+    },
+    {
+        "id": "AK_154",
+        "name_ua": "Бору Трифторид Диетилефірат",
+        "full_label": "АК 154 - Бору Трифторид Диетилефірат",
+        "file_path": "cards/AK_154_Boru_Triftorid_Dietilefirat.pdf"
+    },
+    {
+        "id": "AK_155",
+        "name_ua": "Бору Фторид",
+        "full_label": "АК 155 - Бору Фторид",
+        "file_path": "cards/AK_155_Boru_Ftorid.pdf"
+    },
+    {
+        "id": "AK_156",
+        "name_ua": "Бром",
+        "full_label": "АК 156 - Бром",
+        "file_path": "cards/AK_156_Brom.pdf"
+    },
+    {
+        "id": "AK_157",
+        "name_ua": "Бромацетилбромід",
+        "full_label": "АК 157 - Бромацетилбромід",
+        "file_path": "cards/AK_157_Bromatsetilbromid.pdf"
+    },
+    {
+        "id": "AK_158",
+        "name_ua": "Бромбензол",
+        "full_label": "АК 158 - Бромбензол",
+        "file_path": "cards/AK_158_Brombenzol.pdf"
+    },
+    {
+        "id": "AK_159",
+        "name_ua": "Бромдифторхлорметан",
+        "full_label": "АК 159 - Бромдифторхлорметан",
+        "file_path": "cards/AK_159_Bromdiftorkhlormetan.pdf"
+    },
+    {
+        "id": "AK_160",
+        "name_ua": "Брометан",
+        "full_label": "АК 160 - Брометан",
+        "file_path": "cards/AK_160_Brometana.pdf"
+    },
+    {
+        "id": "AK_161",
+        "name_ua": "Бромметилпропан",
+        "full_label": "АК 161 - Бромметилпропан",
+        "file_path": "cards/AK_161_Brommetilpropan.pdf"
+    },
+    {
+        "id": "AK_162",
+        "name_ua": "Бромоводень, Безводний",
+        "full_label": "АК 162 - Бромоводень, Безводний",
+        "file_path": "cards/AK_162_Bromovoden_Bezvodniy.pdf"
+    },
+    {
+        "id": "AK_163",
+        "name_ua": "Бромоформ",
+        "full_label": "АК 163 - Бромоформ",
+        "file_path": "cards/AK_163_Bromoform.pdf"
+    },
+    {
+        "id": "AK_164",
+        "name_ua": "Бромоцтова Кислота",
+        "full_label": "АК 164 - Бромоцтова Кислота",
+        "file_path": "cards/AK_164_Bromotsova_Kislota.pdf"
+    },
+    {
+        "id": "AK_165",
+        "name_ua": "Бромпропан",
+        "full_label": "АК 165 - Бромпропан",
+        "file_path": "cards/AK_165_Brompropan.pdf"
+    },
+    {
+        "id": "AK_166",
+        "name_ua": "Бромтрифторметан",
+        "full_label": "АК 166 - Бромтрифторметан",
+        "file_path": "cards/AK_166_Bromtriftormetan.pdf"
+    },
+    {
+        "id": "AK_167",
+        "name_ua": "Брому Пентафторид",
+        "full_label": "АК 167 - Брому Пентафторид",
+        "file_path": "cards/AK_167_Bromy_Pentaftorid.pdf"
+    },
+    {
+        "id": "AK_168",
+        "name_ua": "Бромхлорметан",
+        "full_label": "АК 168 - Бромхлорметан",
+        "file_path": "cards/AK_168_Bromkhlormetan.pdf"
+    },
+    {
+        "id": "AK_169",
+        "name_ua": "Бруцин",
+        "full_label": "АК 169 - Бруцин",
+        "file_path": "cards/AK_169_Brutsyn.pdf"
+    },
+    {
+        "id": "AK_170",
+        "name_ua": "Бутан",
+        "full_label": "АК 170 - Бутан",
+        "file_path": "cards/AK_170_Butan.pdf"
+    },
+    {
+        "id": "AK_171",
+        "name_ua": "Бутандіон",
+        "full_label": "АК 171 - Бутандіон",
+        "file_path": "cards/AK_171_Butandion.pdf"
+    },
+    {
+        "id": "AK_172",
+        "name_ua": "Бутилметиловий Ефір",
+        "full_label": "АК 172 - Бутилметиловий Ефір",
+        "file_path": "cards/AK_172_Butilmetiloviy_Efir.pdf"
+    },
+    {
+        "id": "AK_173",
+        "name_ua": "Бутилнітрат",
+        "full_label": "АК 173 - Бутилнітрат",
+        "file_path": "cards/AK_173_Butilnitrat.pdf"
+    },
+    {
+        "id": "AK_174",
+        "name_ua": "Бутилтолуол",
+        "full_label": "АК 174 - Бутилтолуол",
+        "file_path": "cards/AK_174_Butiltoluol.pdf"
+    },
+    {
+        "id": "AK_175",
+        "name_ua": "Бутилфенол",
+        "full_label": "АК 175 - Бутилфенол",
+        "file_path": "cards/AK_175_Butilfenol.pdf"
+    },
+    {
+        "id": "AK_176",
+        "name_ua": "Бутилфосфат",
+        "full_label": "АК 176 - Бутилфосфат",
+        "file_path": "cards/AK_176_Butilfosfat.pdf"
+    },
+    {
+        "id": "AK_177",
+        "name_ua": "Бутиральдоксим",
+        "full_label": "АК 177 - Бутиральдоксим",
+        "file_path": "cards/AK_177_Butiraldoksim.pdf"
+    },
+    {
+        "id": "AK_178",
+        "name_ua": "Бутирилхлорид",
+        "full_label": "АК 178 - Бутирилхлорид",
+        "file_path": "cards/AK_178_Butirilkhlorid.pdf"
+    },
+    {
+        "id": "AK_179",
+        "name_ua": "Бутиронітрил",
+        "full_label": "АК 179 - Бутиронітрил",
+        "file_path": "cards/AK_179_Butironitril.pdf"
+    },
+    {
+        "id": "AK_180",
+        "name_ua": "Бутін-2",
+        "full_label": "АК 180 - Бутін-2",
+        "file_path": "cards/AK_180_Butin_2.pdf"
+    },
+    {
+        "id": "AK_181",
+        "name_ua": "Бутоксил",
+        "full_label": "АК 181 - Бутоксил",
+        "file_path": "cards/AK_181_Butoksil.pdf"
+    },
+    {
+        "id": "AK_182",
+        "name_ua": "Валеральдегід",
+        "full_label": "АК 182 - Валеральдегід",
+        "file_path": "cards/AK_182_Valeraldegid.pdf"
+    },
+    {
+        "id": "AK_183",
+        "name_ua": "Валерилхлорид",
+        "full_label": "АК 183 - Валерилхлорид",
+        "file_path": "cards/AK_183_Valerilkhlorid.pdf"
+    },
+    {
+        "id": "AK_184",
+        "name_ua": "Ванадію Окситрихлорид",
+        "full_label": "АК 184 - Ванадію Окситрихлорид",
+        "file_path": "cards/AK_184_Vanadiyu_Oksitrikhlorid.pdf"
+    },
+    {
+        "id": "AK_185",
+        "name_ua": "Ванадію Пентаоксид",
+        "full_label": "АК 185 - Ванадію Пентаоксид",
+        "file_path": "cards/AK_185_Vanadiyu_Pentaoksid.pdf"
+    },
+    {
+        "id": "AK_186",
+        "name_ua": "Ванадію Тетрахлорид",
+        "full_label": "АК 186 - Ванадію Тетрахлорид",
+        "file_path": "cards/AK_186_Vanadiyu_Tetrakhlorid.pdf"
+    },
+    {
+        "id": "AK_187",
+        "name_ua": "Відходи Сульфатної Кислоти",
+        "full_label": "АК 187 - Відходи Сульфатної Кислоти",
+        "file_path": "cards/AK_187_Vidkhodi_Sulfatnoyi_Kisloti.pdf"
+    },
+    {
+        "id": "AK_188",
+        "name_ua": "Вінілацетат",
+        "full_label": "АК 188 - Вінілацетат",
+        "file_path": "cards/AK_188_Vinilatsetat.pdf"
+    },
+    {
+        "id": "AK_189",
+        "name_ua": "Вінілбромід",
+        "full_label": "АК 189 - Вінілбромід",
+        "file_path": "cards/AK_189_Vinilbromid.pdf"
+    },
+    {
+        "id": "AK_190",
+        "name_ua": "Вінілетиловий Етер, Стабілізований",
+        "full_label": "АК 190 - Вінілетиловий Етер, Стабілізований",
+        "file_path": "cards/AK_190_Viniletiloviy_Eter_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_191",
+        "name_ua": "Вінілметиловий Етер, Стабілізований",
+        "full_label": "АК 191 - Вінілметиловий Етер, Стабілізований",
+        "file_path": "cards/AK_191_Vinilmetiloviy_Eter_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_192",
+        "name_ua": "Вінілтолуол, Суміш Ізомерів",
+        "full_label": "АК 192 - Вінілтолуол, Суміш Ізомерів",
+        "file_path": "cards/AK_192_Viniltoluol_Sumish_Izomeriv.pdf"
+    },
+    {
+        "id": "AK_193",
+        "name_ua": "Вінілфторид, Стабілізований",
+        "full_label": "АК 193 - Вінілфторид, Стабілізований",
+        "file_path": "cards/AK_193_Vinilftorid_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_194",
+        "name_ua": "Вінілхлорацетат",
+        "full_label": "АК 194 - Вінілхлорацетат",
+        "file_path": "cards/AK_194_Vinilkhloratsetat.pdf"
+    },
+    {
+        "id": "AK_195",
+        "name_ua": "Вінілхлорид, Стабілізований",
+        "full_label": "АК 195 - Вінілхлорид, Стабілізований",
+        "file_path": "cards/AK_195_Vinilkhlorid_Stabilizovaniy.pdf"
+    },
+    {
+        "id": "AK_196",
+        "name_ua": "Водень, Стиснутий",
+        "full_label": "АК 196 - Водень, Стиснутий",
+        "file_path": "cards/AK_196_Voden_Stisnutiy.pdf"
+    },
+    {
+        "id": "AK_197",
+        "name_ua": "Вольфраму Гексафторид",
+        "full_label": "АК 197 - Вольфраму Гексафторид",
+        "file_path": "cards/AK_197_Volframu_Geksaftorid.pdf"
+    },
+    {
+        "id": "AK_198",
+        "name_ua": "Гексадієн",
+        "full_label": "АК 198 - Гексадієн",
+        "file_path": "cards/AK_198_Geksadiyen.pdf"
+    },
+    {
+        "id": "AK_199",
+        "name_ua": "Гексаметилендіамін",
+        "full_label": "АК 199 - Гексаметилендіамін",
+        "file_path": "cards/AK_199_Geksametilendiamin.pdf"
+    },
+    {
+        "id": "AK_200",
+        "name_ua": "Гексаметилендіізоціанат",
+        "full_label": "АК 200 - Гексаметилендіізоціанат",
+        "file_path": "cards/AK_200_Geksametilendiizotsianat.pdf"
     }
 ]
