@@ -15,7 +15,8 @@
             color: #333;
         }
         .container {
-            max-width: 700px;
+            /* Збільшена максимальна ширина контейнера */
+            max-width: 900px; 
             margin: 0 auto;
             padding: 20px;
         }
@@ -37,25 +38,28 @@
             font-size: 16px;
         }
         #search-input:focus {
-            border-color: #00796b; 
+            /* Синій колір рамки при фокусі */
+            border-color: #0056b3; 
             outline: none;
         }
         #instructions-btn {
-            background-color: #00796b;
+            /* Синій колір кнопки */
+            background-color: #0056b3; 
             color: white;
             cursor: pointer;
             transition: background-color 0.3s;
             font-weight: bold;
         }
         #instructions-btn:hover {
-            background-color: #004d40;
+            /* Темніший синій при наведенні */
+            background-color: #003d82; 
         }
 
         /* ==================== СПИСОК (ЛІФТ) ==================== */
         #chemicals-list-container {
             height: 400px;
             overflow-y: scroll; 
-            border: 1px solid #c8e6c9; 
+            border: 1px solid #b3cde3; /* Світло-синій бордюр */
             border-radius: 8px;
             background-color: white;
             padding: 0;
@@ -71,11 +75,14 @@
             border-bottom: 1px solid #eee;
             cursor: pointer;
             transition: background-color 0.2s, color 0.2s;
-            font-size: 15px;
+            /* Зміни шрифту для речовин */
+            font-size: 12pt; 
+            font-weight: bold;
+            color: #0056b3; /* Синій колір шрифту */
         }
         .chemical-item:hover {
-            background-color: #e0f2f1; 
-            color: #004d40;
+            background-color: #e6f0ff; /* Світло-синій при наведенні */
+            color: #003d82; /* Темніший синій */
         }
         .chemical-item:last-child {
             border-bottom: none;
@@ -89,14 +96,23 @@
         
         /* ==================== ІНСТРУКЦІЯ ==================== */
         #instructions-content {
-            background-color: #e8f5e9;
+            background-color: #e6f0ff; /* Світло-синій фон інструкції */
             border-radius: 8px;
             padding: 15px;
             margin-top: 10px;
-            border-left: 5px solid #004d40;
+            border-left: 5px solid #0056b3; /* Синя лінія */
+        }
+        #instructions-content a {
+            color: #003d82;
         }
 
         /* ==================== АДАПТИВНІСТЬ ==================== */
+        @media (max-width: 950px) {
+            /* Зменшуємо ширину на дуже великих екранах, зберігаючи пропорції */
+            .container {
+                max-width: 90%; 
+            }
+        }
         @media (max-width: 600px) {
             .container {
                 padding: 10px;
@@ -129,8 +145,15 @@
             <ol>
                 <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
                 <li>Або прокрутіть повний список (ліфт) НХР.</li>
-                <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
+                <li>Натисніть на назву речовини, щоб **завантажити** відповідний PDF-файл з аварійною карткою.</li>
             </ol>
+            
+            <p style="margin-top: 15px; font-weight: bold;">
+                Детальніше про символи: 
+                <a href="cards/UKSEKSPRES_Symvols.pdf" target="_blank" style="color: #003d82;">
+                    Завантажити довідник символів експрес-інформації
+                </a>
+            </p>
         </div>
     </div>
 
