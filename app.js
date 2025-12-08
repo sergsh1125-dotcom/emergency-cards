@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // 2. Функція рендерингу списку
+    // 2. Функція рендерингу списку (без змін)
     function renderList(data) {
         chemicalsList.innerHTML = '';
         
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 3. Функція пошуку (фільтрація)
+    // 3. Функція пошуку (фільтрація) (без змін)
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value.toLowerCase().trim();
         
@@ -79,13 +79,23 @@ document.addEventListener('DOMContentLoaded', () => {
         renderList(filteredList);
     });
 
-    // 4. Функція відкриття/завантаження PDF
+    // 4. Функція відкриття/завантаження PDF (ОНОВЛЕНО ДЛЯ ПРИМУСОВОГО ЗАВАНТАЖЕННЯ)
     function downloadCard(filePath) {
-        // Відкриття PDF в новій вкладці
-        window.open(filePath, '_blank');
+        // Створюємо тимчасовий елемент посилання
+        const link = document.createElement('a');
+        link.href = filePath;
+        
+        // Атрибут 'download' змушує браузер ЗАВАНТАЖИТИ файл, а не відкривати його.
+        // Це найкращий спосіб забезпечити завантаження на мобільних пристроях.
+        link.setAttribute('download', ''); 
+        
+        // Імітуємо клік
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
     }
 
-    // 5. Логіка кнопки "Інструкція" (ВКЛЮЧАЄ ПОСИЛАННЯ НА СИМВОЛИ)
+    // 5. Логіка кнопки "Інструкція" (без змін)
     instructionsButton.addEventListener('click', () => {
         const content = document.getElementById('instructions-content');
         
@@ -95,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <ol>
                 <li>Скористайтеся полем **пошуку**, щоб швидко знайти картку за назвою або номером.</li>
                 <li>Або прокрутіть повний список (ліфт) НХР.</li>
-                <li>Натисніть на назву речовини, щоб **відкрити/завантажити** відповідний PDF-файл з аварійною карткою.</li>
+                <li>Натисніть на назву речовини, щоб **завантажити** відповідний PDF-файл з аварійною карткою.</li>
             </ol>
             
             <p style="margin-top: 15px; font-weight: bold;">
