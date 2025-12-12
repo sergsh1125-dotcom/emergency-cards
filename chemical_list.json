@@ -1898,5 +1898,705 @@
         "chemical_name": "Етиленхлоргідрін",
         "full_label": "АК 300 - Етиленхлоргідрін",
         "file_path": "cards/AK_300_Etilenkhlorgidrin.pdf"
+    },
+    {
+        "id": "AK_301",
+        "card_number": "301",
+        "chemical_name": "Етиліденфторид",
+        "full_label": "АК 301 - Етиліденфторид",
+        "file_path": "cards/AK_301_Etylidenftoryd.pdf"
+    },
+    {
+        "id": "AK_302",
+        "card_number": "302",
+        "chemical_name": "Етиліденфторид",
+        "full_label": "АК 302 - Етиліденфторид",
+        "file_path": "cards/AK_302_Etylidenftoryd.pdf"
+    },
+    {
+        "id": "AK_303",
+        "card_number": "303",
+        "chemical_name": "Етилізобутират",
+        "full_label": "АК 303 - Етилізобутират",
+        "file_path": "cards/AK_303_Etylizobutirat.pdf"
+    },
+    {
+        "id": "AK_304",
+        "card_number": "304",
+        "chemical_name": "Етилкротонат",
+        "full_label": "АК 304 - Етилкротонат",
+        "file_path": "cards/AK_304_Etylkrotonat.pdf"
+    },
+    {
+        "id": "AK_305",
+        "card_number": "305",
+        "chemical_name": "Етилмеркаптан",
+        "full_label": "АК 305 - Етилмеркаптан",
+        "file_path": "cards/AK_305_Etylmerkaptan.pdf"
+    },
+    {
+        "id": "AK_306",
+        "card_number": "306",
+        "chemical_name": "Етилметакрилат",
+        "full_label": "АК 306 - Етилметакрилат",
+        "file_path": "cards/AK_306_Etylmetakrylat.pdf"
+    },
+    {
+        "id": "AK_307",
+        "card_number": "307",
+        "chemical_name": "Етилметиловий Етер",
+        "full_label": "АК 307 - Етилметиловий Етер",
+        "file_path": "cards/AK_307_Etylmetilovy_Eter.pdf"
+    },
+    {
+        "id": "AK_308",
+        "card_number": "308",
+        "chemical_name": "Етилнітрит",
+        "full_label": "АК 308 - Етилнітрит",
+        "file_path": "cards/AK_308_Etylnitryt.pdf"
+    },
+    {
+        "id": "AK_309",
+        "card_number": "309",
+        "chemical_name": "Етилова Рідина (Тетраетилсвинець)",
+        "full_label": "АК 309 - Етилова Рідина (Тетраетилсвинець)",
+        "file_path": "cards/AK_309_Etylova_Rydyna_Tetraetylsvynets.pdf"
+    },
+    {
+        "id": "AK_310",
+        "card_number": "310",
+        "chemical_name": "Етилоксалат",
+        "full_label": "АК 310 - Етилоксалат",
+        "file_path": "cards/AK_310_Etyloksat.pdf"
+    },
+    {
+        "id": "AK_311",
+        "card_number": "311",
+        "chemical_name": "Етилортоформіат",
+        "full_label": "АК 311 - Етилортоформіат",
+        "file_path": "cards/AK_311_Etylortoformiat.pdf"
+    },
+    {
+        "id": "AK_312",
+        "card_number": "312",
+        "chemical_name": "Етилсилікат",
+        "full_label": "АК 312 - Етилсилікат",
+        "file_path": "cards/AK_312_Etylsilikat.pdf"
+    },
+    {
+        "id": "AK_313",
+        "card_number": "313",
+        "chemical_name": "Етилсульфатна Кислота",
+        "full_label": "АК 313 - Етилсульфатна Кислота",
+        "file_path": "cards/AK_313_Etylsulfatna_Kyslot.pdf"
+    },
+    {
+        "id": "AK_314",
+        "card_number": "314",
+        "chemical_name": "Етилфенілдихлорсилан",
+        "full_label": "АК 314 - Етилфенілдихлорсилан",
+        "file_path": "cards/AK_314_Etylfenyldykhlorsilan.pdf"
+    },
+    {
+        "id": "AK_315",
+        "card_number": "315",
+        "chemical_name": "Етилхлорацетат",
+        "full_label": "АК 315 - Етилхлорацетат",
+        "file_path": "cards/AK_315_Etylkhloratsetat.pdf"
+    },
+    {
+        "id": "AK_316",
+        "card_number": "316",
+        "chemical_name": "Етилхлорид",
+        "full_label": "АК 316 - Етилхлорид",
+        "file_path": "cards/AK_316_Etylkhloryd.pdf"
+    },
+    {
+        "id": "AK_317",
+        "card_number": "317",
+        "chemical_name": "Етилцелозольв",
+        "full_label": "АК 317 - Етилцелозольв",
+        "file_path": "cards/AK_317_Etyltseozolv.pdf"
+    },
+    {
+        "id": "AK_318",
+        "card_number": "318",
+        "chemical_name": "Етилцинк",
+        "full_label": "АК 318 - Етилцинк",
+        "file_path": "cards/AK_318_Etyltsynk.pdf"
+    },
+    {
+        "id": "AK_319",
+        "card_number": "319",
+        "chemical_name": "Етилціаноацетат",
+        "full_label": "АК 319 - Етилціаноацетат",
+        "file_path": "cards/AK_319_Etyltsioanatsetat.pdf"
+    },
+    {
+        "id": "AK_320",
+        "card_number": "320",
+        "chemical_name": "Заліза Пентакарбоніл",
+        "full_label": "АК 320 - Заліза Пентакарбоніл",
+        "file_path": "cards/AK_320_Zaliza_Pentakarbonil.pdf"
+    },
+    {
+        "id": "AK_321",
+        "card_number": "321",
+        "chemical_name": "Заліза (Iii) Хлорид",
+        "full_label": "АК 321 - Заліза (Iii) Хлорид",
+        "file_path": "cards/AK_321_Zaliza_Iii_Khloryd.pdf"
+    },
+    {
+        "id": "AK_322",
+        "card_number": "322",
+        "chemical_name": "Ізобутилакрилат",
+        "full_label": "АК 322 - Ізобутилакрилат",
+        "file_path": "cards/AK_322_Izobutylakrylat.pdf"
+    },
+    {
+        "id": "AK_323",
+        "card_number": "323",
+        "chemical_name": "Ізобутилізобутират",
+        "full_label": "АК 323 - Ізобутилізобутират",
+        "file_path": "cards/AK_323_Izobutylizobutirat.pdf"
+    },
+    {
+        "id": "AK_324",
+        "card_number": "324",
+        "chemical_name": "Ізобутилпропіонат",
+        "full_label": "АК 324 - Ізобутилпропіонат",
+        "file_path": "cards/AK_324_Izobutylpropionat.pdf"
+    },
+    {
+        "id": "AK_325",
+        "card_number": "325",
+        "chemical_name": "Ізобутилформіат",
+        "full_label": "АК 325 - Ізобутилформіат",
+        "file_path": "cards/AK_325_Izobutylformiat.pdf"
+    },
+    {
+        "id": "AK_326",
+        "card_number": "326",
+        "chemical_name": "Ізобутираль",
+        "full_label": "АК 326 - Ізобутираль",
+        "file_path": "cards/AK_326_Izobutiral.pdf"
+    },
+    {
+        "id": "AK_327",
+        "card_number": "327",
+        "chemical_name": "Ізобутирилхлорид",
+        "full_label": "АК 327 - Ізобутирилхлорид",
+        "file_path": "cards/AK_327_Izobutirylkhloryd.pdf"
+    },
+    {
+        "id": "AK_328",
+        "card_number": "328",
+        "chemical_name": "Ізомасляна Кислота",
+        "full_label": "АК 328 - Ізомасляна Кислота",
+        "file_path": "cards/AK_328_Izomasliana_Kyslot.pdf"
+    },
+    {
+        "id": "AK_329",
+        "card_number": "329",
+        "chemical_name": "Ізопропенілацетат",
+        "full_label": "АК 329 - Ізопропенілацетат",
+        "file_path": "cards/AK_329_Izopropenilatsetat.pdf"
+    },
+    {
+        "id": "AK_330",
+        "card_number": "330",
+        "chemical_name": "Ізопропіламін",
+        "full_label": "АК 330 - Ізопропіламін",
+        "file_path": "cards/AK_330_Izopropylamin.pdf"
+    },
+    {
+        "id": "AK_331",
+        "card_number": "331",
+        "chemical_name": "Ізопропілізобутират",
+        "full_label": "АК 331 - Ізопропілізобутират",
+        "file_path": "cards/AK_331_Izopropylizobutirat.pdf"
+    },
+    {
+        "id": "AK_332",
+        "card_number": "332",
+        "chemical_name": "Ізопропілізоціанат",
+        "full_label": "АК 332 - Ізопропілізоціанат",
+        "file_path": "cards/AK_332_Izopropylizotsianat.pdf"
+    },
+    {
+        "id": "AK_333",
+        "card_number": "333",
+        "chemical_name": "Ізопропілнітрат",
+        "full_label": "АК 333 - Ізопропілнітрат",
+        "file_path": "cards/AK_333_Izopropylnitrat.pdf"
+    },
+    {
+        "id": "AK_334",
+        "card_number": "334",
+        "chemical_name": "Ізопропіловий Етер",
+        "full_label": "АК 334 - Ізопропіловий Етер",
+        "file_path": "cards/AK_334_Izopropylovy_Eter.pdf"
+    },
+    {
+        "id": "AK_335",
+        "card_number": "335",
+        "chemical_name": "Ізопропіловий Спирт",
+        "full_label": "АК 335 - Ізопропіловий Спирт",
+        "file_path": "cards/AK_335_Izopropylovy_Spyrt.pdf"
+    },
+    {
+        "id": "AK_336",
+        "card_number": "336",
+        "chemical_name": "Йодоводень",
+        "full_label": "АК 336 - Йодоводень",
+        "file_path": "cards/AK_336_Yodovoden.pdf"
+    },
+    {
+        "id": "AK_337",
+        "card_number": "337",
+        "chemical_name": "Калій, Метал",
+        "full_label": "АК 337 - Калій, Метал",
+        "file_path": "cards/AK_337_Kali_Metal.pdf"
+    },
+    {
+        "id": "AK_338",
+        "card_number": "338",
+        "chemical_name": "Калію Арсенат",
+        "full_label": "АК 338 - Калію Арсенат",
+        "file_path": "cards/AK_338_Kaliu_Arsenat.pdf"
+    },
+    {
+        "id": "AK_339",
+        "card_number": "339",
+        "chemical_name": "Калію Арсеніт",
+        "full_label": "АК 339 - Калію Арсеніт",
+        "file_path": "cards/AK_339_Kaliu_Arsenit.pdf"
+    },
+    {
+        "id": "AK_340",
+        "card_number": "340",
+        "chemical_name": "Калію Біфторид",
+        "full_label": "АК 340 - Калію Біфторид",
+        "file_path": "cards/AK_340_Kaliu_Biftoryd.pdf"
+    },
+    {
+        "id": "AK_341",
+        "card_number": "341",
+        "chemical_name": "Калію Гідроксид",
+        "full_label": "АК 341 - Калію Гідроксид",
+        "file_path": "cards/AK_341_Kaliu_Gidroksyd.pdf"
+    },
+    {
+        "id": "AK_342",
+        "card_number": "342",
+        "chemical_name": "Калію Гідросульфат",
+        "full_label": "АК 342 - Калію Гідросульфат",
+        "file_path": "cards/AK_342_Kaliu_Gidrosulfat.pdf"
+    },
+    {
+        "id": "AK_343",
+        "card_number": "343",
+        "chemical_name": "Калію Нітрат",
+        "full_label": "АК 343 - Калію Нітрат",
+        "file_path": "cards/AK_343_Kaliu_Nitrat.pdf"
+    },
+    {
+        "id": "AK_344",
+        "card_number": "344",
+        "chemical_name": "Калію Оксид",
+        "full_label": "АК 344 - Калію Оксид",
+        "file_path": "cards/AK_344_Kaliu_Oksyd.pdf"
+    },
+    {
+        "id": "AK_345",
+        "card_number": "345",
+        "chemical_name": "Калію Перманганат",
+        "full_label": "АК 345 - Калію Перманганат",
+        "file_path": "cards/AK_345_Kaliu_Permanganat.pdf"
+    },
+    {
+        "id": "AK_346",
+        "card_number": "346",
+        "chemical_name": "Калію Сульфід",
+        "full_label": "АК 346 - Калію Сульфід",
+        "file_path": "cards/AK_346_Kaliu_Sulfid.pdf"
+    },
+    {
+        "id": "AK_347",
+        "card_number": "347",
+        "chemical_name": "Калію Фторид",
+        "full_label": "АК 347 - Калію Фторид",
+        "file_path": "cards/AK_347_Kaliu_Ftoryd.pdf"
+    },
+    {
+        "id": "AK_348",
+        "card_number": "348",
+        "chemical_name": "Калію Ціанід",
+        "full_label": "АК 348 - Калію Ціанід",
+        "file_path": "cards/AK_348_Kaliu_Tsianid.pdf"
+    },
+    {
+        "id": "AK_349",
+        "card_number": "349",
+        "chemical_name": "Кальцій",
+        "full_label": "АК 349 - Кальцій",
+        "file_path": "cards/AK_349_Kaltsiy.pdf"
+    },
+    {
+        "id": "AK_350",
+        "card_number": "350",
+        "chemical_name": "Кальцію Арсенат",
+        "full_label": "АК 350 - Кальцію Арсенат",
+        "file_path": "cards/AK_350_Kaltsiu_Arsenat.pdf"
+    },
+    {
+        "id": "AK_351",
+        "card_number": "351",
+        "chemical_name": "Кальцію Бромат",
+        "full_label": "АК 351 - Кальцію Бромат",
+        "file_path": "cards/AK_351_Kaltsiu_Bromat.pdf"
+    },
+    {
+        "id": "AK_352",
+        "card_number": "352",
+        "chemical_name": "Кальцію Гіпохлорит",
+        "full_label": "АК 352 - Кальцію Гіпохлорит",
+        "file_path": "cards/AK_352_Kaltsiu_Gipokhlory.pdf"
+    },
+    {
+        "id": "AK_353",
+        "card_number": "353",
+        "chemical_name": "Кальцію Карбід",
+        "full_label": "АК 353 - Кальцію Карбід",
+        "file_path": "cards/AK_353_Kaltsiu_Karbide.pdf"
+    },
+    {
+        "id": "AK_354",
+        "card_number": "354",
+        "chemical_name": "Кальцію Оксид",
+        "full_label": "АК 354 - Кальцію Оксид",
+        "file_path": "cards/AK_354_Kaltsiu_Oksyd.pdf"
+    },
+    {
+        "id": "AK_355",
+        "card_number": "355",
+        "chemical_name": "Кальцію Фосфід",
+        "full_label": "АК 355 - Кальцію Фосфід",
+        "file_path": "cards/AK_355_Kaltsiu_Fosfid.pdf"
+    },
+    {
+        "id": "AK_356",
+        "card_number": "356",
+        "chemical_name": "Кальцію Хлорат",
+        "full_label": "АК 356 - Кальцію Хлорат",
+        "file_path": "cards/AK_356_Kaltsiu_Khlorat.pdf"
+    },
+    {
+        "id": "AK_357",
+        "card_number": "357",
+        "chemical_name": "Кальцію Ціанамід",
+        "full_label": "АК 357 - Кальцію Ціанамід",
+        "file_path": "cards/AK_357_Kaltsiu_Tsianamid.pdf"
+    },
+    {
+        "id": "AK_358",
+        "card_number": "358",
+        "chemical_name": "Кальцію Ціанід",
+        "full_label": "АК 358 - Кальцію Ціанід",
+        "file_path": "cards/AK_358_Kaltsiu_Tsianid.pdf"
+    },
+    {
+        "id": "AK_359",
+        "card_number": "359",
+        "chemical_name": "Кисень Зріджений",
+        "full_label": "АК 359 - Кисень Зріджений",
+        "file_path": "cards/AK_359_Kysen_Zridzhenyy.pdf"
+    },
+    {
+        "id": "AK_360",
+        "card_number": "360",
+        "chemical_name": "Кисню Дифторид Зріджений",
+        "full_label": "АК 360 - Кисню Дифторид Зріджений",
+        "file_path": "cards/AK_360_Kysniu_Dyftoryd_Zridzhenyy.pdf"
+    },
+    {
+        "id": "AK_361",
+        "card_number": "361",
+        "chemical_name": "Комплекс Трифториду Бору З Оцтовою Кислотою",
+        "full_label": "АК 361 - Комплекс Трифториду Бору З Оцтовою Кислотою",
+        "file_path": "cards/AK_361_Kompleks_Trieftorydu_Boru_Z_Otsovou_Kyslotou.pdf"
+    },
+    {
+        "id": "AK_362",
+        "card_number": "362",
+        "chemical_name": "Ксиленол",
+        "full_label": "АК 362 - Ксиленол",
+        "file_path": "cards/AK_362_Ksilenol.pdf"
+    },
+    {
+        "id": "AK_363",
+        "card_number": "363",
+        "chemical_name": "Ксилідини, Суміш Ізомерів",
+        "full_label": "АК 363 - Ксилідини, Суміш Ізомерів",
+        "file_path": "cards/AK_363_Ksilydyny_Sumish_Izomeriv.pdf"
+    },
+    {
+        "id": "AK_364",
+        "card_number": "364",
+        "chemical_name": "Ксилілбромід",
+        "full_label": "АК 364 - Ксилілбромід",
+        "file_path": "cards/AK_364_Ksylilbromid.pdf"
+    },
+    {
+        "id": "AK_365",
+        "card_number": "365",
+        "chemical_name": "Ксилоли, Суміш",
+        "full_label": "АК 365 - Ксилоли, Суміш",
+        "file_path": "cards/AK_365_Ksyly_Sumish.pdf"
+    },
+    {
+        "id": "AK_366",
+        "card_number": "366",
+        "chemical_name": "Кумолгідропероксид",
+        "full_label": "АК 366 - Кумолгідропероксид",
+        "file_path": "cards/AK_366_Kumolhydroperoksyd.pdf"
+    },
+    {
+        "id": "AK_367",
+        "card_number": "367",
+        "chemical_name": "Лаки І Фарби",
+        "full_label": "АК 367 - Лаки І Фарби",
+        "file_path": "cards/AK_367_Laky_I_Farby.pdf"
+    },
+    {
+        "id": "AK_368",
+        "card_number": "368",
+        "chemical_name": "Літій",
+        "full_label": "АК 368 - Літій",
+        "file_path": "cards/AK_368_Litiy.pdf"
+    },
+    {
+        "id": "AK_369",
+        "card_number": "369",
+        "chemical_name": "Літію Гідроксид",
+        "full_label": "АК 369 - Літію Гідроксид",
+        "file_path": "cards/AK_369_Litiu_Gidroksyd.pdf"
+    },
+    {
+        "id": "AK_370",
+        "card_number": "370",
+        "chemical_name": "Магній",
+        "full_label": "АК 370 - Магній",
+        "file_path": "cards/AK_370_Magniy.pdf"
+    },
+    {
+        "id": "AK_371",
+        "card_number": "371",
+        "chemical_name": "Магнію Арсенат",
+        "full_label": "АК 371 - Магнію Арсенат",
+        "file_path": "cards/AK_371_Magniu_Arsenat.pdf"
+    },
+    {
+        "id": "AK_372",
+        "card_number": "372",
+        "chemical_name": "Магнію Перхлорат",
+        "full_label": "АК 372 - Магнію Перхлорат",
+        "file_path": "cards/AK_372_Magniu_Perkhlorat.pdf"
+    },
+    {
+        "id": "AK_373",
+        "card_number": "373",
+        "chemical_name": "Малеїновий Ангідрид",
+        "full_label": "АК 373 - Малеїновий Ангідрид",
+        "file_path": "cards/AK_373_Maleinovy_Angidrid.pdf"
+    },
+    {
+        "id": "AK_374",
+        "card_number": "374",
+        "chemical_name": "Мезитилоксид",
+        "full_label": "АК 374 - Мезитилоксид",
+        "file_path": "cards/AK_374_Mesityloksyd.pdf"
+    },
+    {
+        "id": "AK_375",
+        "card_number": "375",
+        "chemical_name": "Меркаптоетанол",
+        "full_label": "АК 375 - Меркаптоетанол",
+        "file_path": "cards/AK_375_Merkaptoetanol.pdf"
+    },
+    {
+        "id": "AK_376",
+        "card_number": "376",
+        "chemical_name": "Метакрилальдегід",
+        "full_label": "АК 376 - Метакрилальдегід",
+        "file_path": "cards/AK_376_Metakrylaldegid.pdf"
+    },
+    {
+        "id": "AK_377",
+        "card_number": "377",
+        "chemical_name": "Метакрилова Кислота Стабілізована",
+        "full_label": "АК 377 - Метакрилова Кислота Стабілізована",
+        "file_path": "cards/AK_377_Metakrylova_Kyslot_Stabilizovana.pdf"
+    },
+    {
+        "id": "AK_378",
+        "card_number": "378",
+        "chemical_name": "Метальдегід",
+        "full_label": "АК 378 - Метальдегід",
+        "file_path": "cards/AK_378_Metldegid.pdf"
+    },
+    {
+        "id": "AK_379",
+        "card_number": "379",
+        "chemical_name": "Метан І Нафтові Гази",
+        "full_label": "АК 379 - Метан І Нафтові Гази",
+        "file_path": "cards/AK_379_Metan_I_Naftovi_Gazy.pdf"
+    },
+    {
+        "id": "AK_380",
+        "card_number": "380",
+        "chemical_name": "Метанол",
+        "full_label": "АК 380 - Метанол",
+        "file_path": "cards/AK_380_Metanol.pdf"
+    },
+    {
+        "id": "AK_381",
+        "card_number": "381",
+        "chemical_name": "Метилакрилат Стабілізований",
+        "full_label": "АК 381 - Метилакрилат Стабілізований",
+        "file_path": "cards/AK_381_Metilakrylat_Stabilizovanyy.pdf"
+    },
+    {
+        "id": "AK_382",
+        "card_number": "382",
+        "chemical_name": "Метиламін Безводний",
+        "full_label": "АК 382 - Метиламін Безводний",
+        "file_path": "cards/AK_382_Metylamin_Bezvodnyy.pdf"
+    },
+    {
+        "id": "AK_383",
+        "card_number": "383",
+        "chemical_name": "Метиламін, Водний Розчин",
+        "full_label": "АК 383 - Метиламін, Водний Розчин",
+        "file_path": "cards/AK_383_Metylamin_Vodny_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_384",
+        "card_number": "384",
+        "chemical_name": "Метилбромацетат",
+        "full_label": "АК 384 - Метилбромацетат",
+        "file_path": "cards/AK_384_Metylbromatsetat.pdf"
+    },
+    {
+        "id": "AK_385",
+        "card_number": "385",
+        "chemical_name": "Метилбромід",
+        "full_label": "АК 385 - Метилбромід",
+        "file_path": "cards/AK_385_Metylbromid.pdf"
+    },
+    {
+        "id": "AK_386",
+        "card_number": "386",
+        "chemical_name": "Метилбутират",
+        "full_label": "АК 386 - Метилбутират",
+        "file_path": "cards/AK_386_Metylbutirat.pdf"
+    },
+    {
+        "id": "AK_387",
+        "card_number": "387",
+        "chemical_name": "Метилвінілкетон",
+        "full_label": "АК 387 - Метилвінілкетон",
+        "file_path": "cards/AK_387_Metylvinilketon.pdf"
+    },
+    {
+        "id": "AK_388",
+        "card_number": "388",
+        "chemical_name": "Метилгідразин",
+        "full_label": "АК 388 - Метилгідразин",
+        "file_path": "cards/AK_388_Metylgidrazyn.pdf"
+    },
+    {
+        "id": "AK_389",
+        "card_number": "389",
+        "chemical_name": "Метилглікольацетат",
+        "full_label": "АК 389 - Метилглікольацетат",
+        "file_path": "cards/AK_389_Metylglykolatsetat.pdf"
+    },
+    {
+        "id": "AK_390",
+        "card_number": "390",
+        "chemical_name": "Метилдихлорсилан",
+        "full_label": "АК 390 - Метилдихлорсилан",
+        "file_path": "cards/AK_390_Metyldykhlorsilan.pdf"
+    },
+    {
+        "id": "AK_391",
+        "card_number": "391",
+        "chemical_name": "Метилізобутилкетон",
+        "full_label": "АК 391 - Метилізобутилкетон",
+        "file_path": "cards/AK_391_Metylizobutylketon.pdf"
+    },
+    {
+        "id": "AK_392",
+        "card_number": "392",
+        "chemical_name": "Метилізотіоціанат",
+        "full_label": "АК 392 - Метилізотіоціанат",
+        "file_path": "cards/AK_392_Metylizotiotsianat.pdf"
+    },
+    {
+        "id": "AK_393",
+        "card_number": "393",
+        "chemical_name": "Метилйодид",
+        "full_label": "АК 393 - Метилйодид",
+        "file_path": "cards/AK_393_Metilodid.pdf"
+    },
+    {
+        "id": "AK_394",
+        "card_number": "394",
+        "chemical_name": "Метилморфолін",
+        "full_label": "АК 394 - Метилморфолін",
+        "file_path": "cards/AK_394_Metilmorfolin.pdf"
+    },
+    {
+        "id": "AK_395",
+        "card_number": "395",
+        "chemical_name": "Метилортосилікат",
+        "full_label": "АК 395 - Метилортосилікат",
+        "file_path": "cards/AK_395_Metilortosilikat.pdf"
+    },
+    {
+        "id": "AK_396",
+        "card_number": "396",
+        "chemical_name": "Метилпентадієн",
+        "full_label": "АК 396 - Метилпентадієн",
+        "file_path": "cards/AK_396_Metylpentadien.pdf"
+    },
+    {
+        "id": "AK_397",
+        "card_number": "397",
+        "chemical_name": "Метилпропілкетон",
+        "full_label": "АК 397 - Метилпропілкетон",
+        "file_path": "cards/AK_397_Metylpropilketon.pdf"
+    },
+    {
+        "id": "AK_398",
+        "card_number": "398",
+        "chemical_name": "Метилпропіловий Етер",
+        "full_label": "АК 398 - Метилпропіловий Етер",
+        "file_path": "cards/AK_398_Metylpropylovy_Eter.pdf"
+    },
+    {
+        "id": "AK_399",
+        "card_number": "399",
+        "chemical_name": "Метилпропіонат",
+        "full_label": "АК 399 - Метилпропіонат",
+        "file_path": "cards/AK_399_Metylpropionat.pdf"
+    },
+    {
+        "id": "AK_400",
+        "card_number": "400",
+        "chemical_name": "Метилтетрагідрофуран",
+        "full_label": "АК 400 - Метилтетрагідрофуран",
+        "file_path": "cards/AK_400_Metyltetragidrofuran.pdf"
     }
 ]
