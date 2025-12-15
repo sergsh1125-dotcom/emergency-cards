@@ -2592,11 +2592,711 @@
         "full_label": "АК 399 - Метилпропіонат",
         "file_path": "cards/AK_399_Metylpropionat.pdf"
     },
-    {
+       {
         "id": "AK_400",
         "card_number": "400",
         "chemical_name": "Метилтетрагідрофуран",
         "full_label": "АК 400 - Метилтетрагідрофуран",
         "file_path": "cards/AK_400_Metyltetragidrofuran.pdf"
+    },
+    {
+        "id": "AK_401",
+        "card_number": "401",
+        "chemical_name": "Метил-Трет-Бутиловий Етер",
+        "full_label": "АК 401 - Метил-Трет-Бутиловий Етер",
+        "file_path": "cards/AK_401_Metyl-Tret-Butylovy_Eter.pdf"
+    },
+    {
+        "id": "AK_402",
+        "card_number": "402",
+        "chemical_name": "Метилтрихлорацетат",
+        "full_label": "АК 402 - Метилтрихлорацетат",
+        "file_path": "cards/AK_402_Metyltrykhloratsetat.pdf"
+    },
+    {
+        "id": "AK_403",
+        "card_number": "403",
+        "chemical_name": "Метилформіат",
+        "full_label": "АК 403 - Метилформіат",
+        "file_path": "cards/AK_403_Metylformiat.pdf"
+    },
+    {
+        "id": "AK_404",
+        "card_number": "404",
+        "chemical_name": "Метилхлорацетат",
+        "full_label": "АК 404 - Метилхлорацетат",
+        "file_path": "cards/AK_404_Metylkhloratsetat.pdf"
+    },
+    {
+        "id": "AK_405",
+        "card_number": "405",
+        "chemical_name": "Метилхлорид",
+        "full_label": "АК 405 - Метилхлорид",
+        "file_path": "cards/AK_405_Metylkhloryd.pdf"
+    },
+    {
+        "id": "AK_406",
+        "card_number": "406",
+        "chemical_name": "Метилхлорид З Хлорпікріном",
+        "full_label": "АК 406 - Метилхлорид З Хлорпікріном",
+        "file_path": "cards/AK_406_Metylkhloryd_Z_Khlorpikrinom.pdf"
+    },
+    {
+        "id": "AK_407",
+        "card_number": "407",
+        "chemical_name": "Метилхлорформіат",
+        "full_label": "АК 407 - Метилхлорформіат",
+        "file_path": "cards/AK_407_Metylkhlorformiat.pdf"
+    },
+    {
+        "id": "AK_408",
+        "card_number": "408",
+        "chemical_name": "Метилциклогексан",
+        "full_label": "АК 408 - Метилциклогексан",
+        "file_path": "cards/AK_408_Metyltsykloheksan.pdf"
+    },
+    {
+        "id": "AK_409",
+        "card_number": "409",
+        "chemical_name": "Метоксиметилізоціанат",
+        "full_label": "АК 409 - Метоксиметилізоціанат",
+        "file_path": "cards/AK_409_Metoksymetyilizotsianat.pdf"
+    },
+    {
+        "id": "AK_410",
+        "card_number": "410",
+        "chemical_name": "Молібдену Пентахлорид",
+        "full_label": "АК 410 - Молібдену Пентахлорид",
+        "file_path": "cards/AK_410_Molibdenu_Pentakhoryd.pdf"
+    },
+    {
+        "id": "AK_411",
+        "card_number": "411",
+        "chemical_name": "Монобутиловий Етер Етиленгліколю",
+        "full_label": "АК 411 - Монобутиловий Етер Етиленгліколю",
+        "file_path": "cards/AK_411_Monobutylovy_Eter_Etylenglikolu.pdf"
+    },
+    {
+        "id": "AK_412",
+        "card_number": "412",
+        "chemical_name": "Монооксид Азоту",
+        "full_label": "АК 412 - Монооксид Азоту",
+        "file_path": "cards/AK_412_Monooksyd_Azotu.pdf"
+    },
+    {
+        "id": "AK_413",
+        "card_number": "413",
+        "chemical_name": "Монооксид Вуглецю",
+        "full_label": "АК 413 - Монооксид Вуглецю",
+        "file_path": "cards/AK_413_Monooksyd_Vugleciu.pdf"
+    },
+    {
+        "id": "AK_414",
+        "card_number": "414",
+        "chemical_name": "Морфолін",
+        "full_label": "АК 414 - Морфолін",
+        "file_path": "cards/AK_414_Morfolin.pdf"
+    },
+    {
+        "id": "AK_415",
+        "card_number": "415",
+        "chemical_name": "М-Хлорфенол",
+        "full_label": "АК 415 - М-Хлорфенол",
+        "file_path": "cards/AK_415_M-Khlorfenol.pdf"
+    },
+    {
+        "id": "AK_416",
+        "card_number": "416",
+        "chemical_name": "Натрій",
+        "full_label": "АК 416 - Натрій",
+        "file_path": "cards/AK_416_Natriy.pdf"
+    },
+    {
+        "id": "AK_417",
+        "card_number": "417",
+        "chemical_name": "Натрію Азид",
+        "full_label": "АК 417 - Натрію Азид",
+        "file_path": "cards/AK_417_Natriu_Azyd.pdf"
+    },
+    {
+        "id": "AK_418",
+        "card_number": "418",
+        "chemical_name": "Натрію Амід",
+        "full_label": "АК 418 - Натрію Амід",
+        "file_path": "cards/AK_418_Natriu_Amid.pdf"
+    },
+    {
+        "id": "AK_419",
+        "card_number": "419",
+        "chemical_name": "Натрію Арсенат",
+        "full_label": "АК 419 - Натрію Арсенат",
+        "file_path": "cards/AK_419_Natriu_Arsenat.pdf"
+    },
+    {
+        "id": "AK_420",
+        "card_number": "420",
+        "chemical_name": "Натрію Арсеніт",
+        "full_label": "АК 420 - Натрію Арсеніт",
+        "file_path": "cards/AK_420_Natriu_Arsenit.pdf"
+    },
+    {
+        "id": "AK_421",
+        "card_number": "421",
+        "chemical_name": "Натрію Біфторид",
+        "full_label": "АК 421 - Натрію Біфторид",
+        "file_path": "cards/AK_421_Natriu_Biftoryd.pdf"
+    },
+    {
+        "id": "AK_422",
+        "card_number": "422",
+        "chemical_name": "Натрію Боргідрид",
+        "full_label": "АК 422 - Натрію Боргідрид",
+        "file_path": "cards/AK_422_Natriu_Borgidryd.pdf"
+    },
+    {
+        "id": "AK_423",
+        "card_number": "423",
+        "chemical_name": "Натрію Бромат",
+        "full_label": "АК 423 - Натрію Бромат",
+        "file_path": "cards/AK_423_Natriu_Bromat.pdf"
+    },
+    {
+        "id": "AK_424",
+        "card_number": "424",
+        "chemical_name": "Натрію Гідроксид",
+        "full_label": "АК 424 - Натрію Гідроксид",
+        "file_path": "cards/AK_424_Natriu_Gidroksyd.pdf"
+    },
+    {
+        "id": "AK_425",
+        "card_number": "425",
+        "chemical_name": "Натрію Гідросульфат",
+        "full_label": "АК 425 - Натрію Гідросульфат",
+        "file_path": "cards/AK_425_Natriu_Gidrosulfat.pdf"
+    },
+    {
+        "id": "AK_426",
+        "card_number": "426",
+        "chemical_name": "Натрію Гідросульфід",
+        "full_label": "АК 426 - Натрію Гідросульфід",
+        "file_path": "cards/AK_426_Natriu_Gidrosulfid.pdf"
+    },
+    {
+        "id": "AK_427",
+        "card_number": "427",
+        "chemical_name": "Натрію Гідросульфіт",
+        "full_label": "АК 427 - Натрію Гідросульфіт",
+        "file_path": "cards/AK_427_Natriu_Gidrosulfit.pdf"
+    },
+    {
+        "id": "AK_428",
+        "card_number": "428",
+        "chemical_name": "Натрію Нітрит",
+        "full_label": "АК 428 - Натрію Нітрит",
+        "file_path": "cards/AK_428_Natriu_Nitrit.pdf"
+    },
+    {
+        "id": "AK_429",
+        "card_number": "429",
+        "chemical_name": "Натрію Оксид",
+        "full_label": "АК 429 - Натрію Оксид",
+        "file_path": "cards/AK_429_Natriu_Oksyd.pdf"
+    },
+    {
+        "id": "AK_430",
+        "card_number": "430",
+        "chemical_name": "Натрію Пентахлорфенолят",
+        "full_label": "АК 430 - Натрію Пентахлорфенолят",
+        "file_path": "cards/AK_430_Natriu_Pentakhlorfenoliat.pdf"
+    },
+    {
+        "id": "AK_431",
+        "card_number": "431",
+        "chemical_name": "Натрію Пероксид",
+        "full_label": "АК 431 - Натрію Пероксид",
+        "file_path": "cards/AK_431_Natriu_Peroksyd.pdf"
+    },
+    {
+        "id": "AK_432",
+        "card_number": "432",
+        "chemical_name": "Натрію Персульфат",
+        "full_label": "АК 432 - Натрію Персульфат",
+        "file_path": "cards/AK_432_Natriu_Persulfat.pdf"
+    },
+    {
+        "id": "AK_433",
+        "card_number": "433",
+        "chemical_name": "Натрію Перхлорат",
+        "full_label": "АК 433 - Натрію Перхлорат",
+        "file_path": "cards/AK_433_Natriu_Perkhlorat.pdf"
+    },
+    {
+        "id": "AK_434",
+        "card_number": "434",
+        "chemical_name": "Натрію Селеніт",
+        "full_label": "АК 434 - Натрію Селеніт",
+        "file_path": "cards/AK_434_Natriu_Selenit.pdf"
+    },
+    {
+        "id": "AK_435",
+        "card_number": "435",
+        "chemical_name": "Натрію Сульфід",
+        "full_label": "АК 435 - Натрію Сульфід",
+        "file_path": "cards/AK_435_Natriu_Sulfid.pdf"
+    },
+    {
+        "id": "AK_436",
+        "card_number": "436",
+        "chemical_name": "Натрію Фторид",
+        "full_label": "АК 436 - Натрію Фторид",
+        "file_path": "cards/AK_436_Natriu_Ftoryd.pdf"
+    },
+    {
+        "id": "AK_437",
+        "card_number": "437",
+        "chemical_name": "Натрію Хлорат",
+        "full_label": "АК 437 - Натрію Хлорат",
+        "file_path": "cards/AK_437_Natriu_Khlorat.pdf"
+    },
+    {
+        "id": "AK_438",
+        "card_number": "438",
+        "chemical_name": "Натрію Хлорат, Розчин",
+        "full_label": "АК 438 - Натрію Хлорат, Розчин",
+        "file_path": "cards/AK_438_Natriu_Khlorat_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_439",
+        "card_number": "439",
+        "chemical_name": "Натрію Хлорит",
+        "full_label": "АК 439 - Натрію Хлорит",
+        "file_path": "cards/AK_439_Natriu_Khoryl.pdf"
+    },
+    {
+        "id": "AK_440",
+        "card_number": "440",
+        "chemical_name": "Натрію Ціанід",
+        "full_label": "АК 440 - Натрію Ціанід",
+        "file_path": "cards/AK_440_Natriu_Tsianid.pdf"
+    },
+    {
+        "id": "AK_441",
+        "card_number": "441",
+        "chemical_name": "Натронне Вапно",
+        "full_label": "АК 441 - Натронне Вапно",
+        "file_path": "cards/AK_441_Natronne_Vapno.pdf"
+    },
+    {
+        "id": "AK_442",
+        "card_number": "442",
+        "chemical_name": "Нафта",
+        "full_label": "АК 442 - Нафта",
+        "file_path": "cards/AK_442_Nafta.pdf"
+    },
+    {
+        "id": "AK_443",
+        "card_number": "443",
+        "chemical_name": "Нафталін",
+        "full_label": "АК 443 - Нафталін",
+        "file_path": "cards/AK_443_Naftalin.pdf"
+    },
+    {
+        "id": "AK_444",
+        "card_number": "444",
+        "chemical_name": "Нафтиламін",
+        "full_label": "АК 444 - Нафтиламін",
+        "file_path": "cards/AK_444_Naftylamin.pdf"
+    },
+    {
+        "id": "AK_445",
+        "card_number": "445",
+        "chemical_name": "Н-Бутаналь",
+        "full_label": "АК 445 - Н-Бутаналь",
+        "file_path": "cards/AK_445_N-Butanal.pdf"
+    },
+    {
+        "id": "AK_446",
+        "card_number": "446",
+        "chemical_name": "Н-Бутиламін",
+        "full_label": "АК 446 - Н-Бутиламін",
+        "file_path": "cards/AK_446_N-Butylamin.pdf"
+    },
+    {
+        "id": "AK_447",
+        "card_number": "447",
+        "chemical_name": "Н-Бутилацетат",
+        "full_label": "АК 447 - Н-Бутилацетат",
+        "file_path": "cards/AK_447_N-Butylatsetat.pdf"
+    },
+    {
+        "id": "AK_448",
+        "card_number": "448",
+        "chemical_name": "Н-Бутилізоціанат",
+        "full_label": "АК 448 - Н-Бутилізоціанат",
+        "file_path": "cards/AK_448_N-Butylizotsianat.pdf"
+    },
+    {
+        "id": "AK_449",
+        "card_number": "449",
+        "chemical_name": "Н-Бутилпропіонат",
+        "full_label": "АК 449 - Н-Бутилпропіонат",
+        "file_path": "cards/AK_449_N-Butylpropionat.pdf"
+    },
+    {
+        "id": "AK_450",
+        "card_number": "450",
+        "chemical_name": "Н-Бутилхлорид",
+        "full_label": "АК 450 - Н-Бутилхлорид",
+        "file_path": "cards/AK_450_N-Butylkhloryd.pdf"
+    },
+    {
+        "id": "AK_451",
+        "card_number": "451",
+        "chemical_name": "Нікель Ренея",
+        "full_label": "АК 451 - Нікель Ренея",
+        "file_path": "cards/AK_451_Nikel_Renea.pdf"
+    },
+    {
+        "id": "AK_452",
+        "card_number": "452",
+        "chemical_name": "Нікелю Тетракарбоніл",
+        "full_label": "АК 452 - Нікелю Тетракарбоніл",
+        "file_path": "cards/AK_452_Nikelu_Tetrakarbonil.pdf"
+    },
+    {
+        "id": "AK_453",
+        "card_number": "453",
+        "chemical_name": "Нікотин Та Солі",
+        "full_label": "АК 453 - Нікотин Та Солі",
+        "file_path": "cards/AK_453_Nikotyn_Ta_Soli.pdf"
+    },
+    {
+        "id": "AK_454",
+        "card_number": "454",
+        "chemical_name": "Нітрил Ізомасляної Кислоти",
+        "full_label": "АК 454 - Нітрил Ізомасляної Кислоти",
+        "file_path": "cards/AK_454_Nitryl_Izomaslianoi_Kysloty.pdf"
+    },
+    {
+        "id": "AK_455",
+        "card_number": "455",
+        "chemical_name": "Нітроанізоли",
+        "full_label": "АК 455 - Нітроанізоли",
+        "file_path": "cards/AK_455_Nitroanizoly.pdf"
+    },
+    {
+        "id": "AK_456",
+        "card_number": "456",
+        "chemical_name": "Нітробензол",
+        "full_label": "АК 456 - Нітробензол",
+        "file_path": "cards/AK_456_Nitrobenzol.pdf"
+    },
+    {
+        "id": "AK_457",
+        "card_number": "457",
+        "chemical_name": "Нітробензолсульфонові Кислоти",
+        "full_label": "АК 457 - Нітробензолсульфонові Кислоти",
+        "file_path": "cards/AK_457_Nitrobenzolsulfonovi_Kysloty.pdf"
+    },
+    {
+        "id": "AK_458",
+        "card_number": "458",
+        "chemical_name": "Нітробензотрифторид",
+        "full_label": "АК 458 - Нітробензотрифторид",
+        "file_path": "cards/AK_458_Nitrobenzotryftoryd.pdf"
+    },
+    {
+        "id": "AK_459",
+        "card_number": "459",
+        "chemical_name": "Нітробромбензоли",
+        "full_label": "АК 459 - Нітробромбензоли",
+        "file_path": "cards/AK_459_Nitrobrombenzoly.pdf"
+    },
+    {
+        "id": "AK_460",
+        "card_number": "460",
+        "chemical_name": "Нітрозилсірчана Кислота",
+        "full_label": "АК 460 - Нітрозилсірчана Кислота",
+        "file_path": "cards/AK_460_Nitrozylsirchana_Kyslot.pdf"
+    },
+    {
+        "id": "AK_461",
+        "card_number": "461",
+        "chemical_name": "Нітрокрезол",
+        "full_label": "АК 461 - Нітрокрезол",
+        "file_path": "cards/AK_461_Nitrokrezol.pdf"
+    },
+    {
+        "id": "AK_462",
+        "card_number": "462",
+        "chemical_name": "Нітрокислоти, Суміш",
+        "full_label": "АК 462 - Нітрокислоти, Суміш",
+        "file_path": "cards/AK_462_Nitrokysloty_Sumish.pdf"
+    },
+    {
+        "id": "AK_463",
+        "card_number": "463",
+        "chemical_name": "Нітрометан",
+        "full_label": "АК 463 - Нітрометан",
+        "file_path": "cards/AK_463_Nitrometan.pdf"
+    },
+    {
+        "id": "AK_464",
+        "card_number": "464",
+        "chemical_name": "Нітропропан",
+        "full_label": "АК 464 - Нітропропан",
+        "file_path": "cards/AK_464_Nitropropan.pdf"
+    },
+    {
+        "id": "AK_465",
+        "card_number": "465",
+        "chemical_name": "Нітроцелюлоза, Розчин",
+        "full_label": "АК 465 - Нітроцелюлоза, Розчин",
+        "file_path": "cards/AK_465_Nitrotseuloz_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_466",
+        "card_number": "466",
+        "chemical_name": "Нітруююча Суміш",
+        "full_label": "АК 466 - Нітруююча Суміш",
+        "file_path": "cards/AK_466_Nitruyucha_Sumish.pdf"
+    },
+    {
+        "id": "AK_467",
+        "card_number": "467",
+        "chemical_name": "Н-Масляна Кислота",
+        "full_label": "АК 467 - Н-Масляна Кислота",
+        "file_path": "cards/AK_467_N-Masliana_Kyslot.pdf"
+    },
+    {
+        "id": "AK_468",
+        "card_number": "468",
+        "chemical_name": "Н-Пропілнітрат",
+        "full_label": "АК 468 - Н-Пропілнітрат",
+        "file_path": "cards/AK_468_N-Propylnitrat.pdf"
+    },
+    {
+        "id": "AK_469",
+        "card_number": "469",
+        "chemical_name": "О-Крезол",
+        "full_label": "АК 469 - О-Крезол",
+        "file_path": "cards/AK_469_O-Krezol.pdf"
+    },
+    {
+        "id": "AK_470",
+        "card_number": "470",
+        "chemical_name": "Оксалат Водорозчинний",
+        "full_label": "АК 470 - Оксалат Водорозчинний",
+        "file_path": "cards/AK_470_Oksalat_Vodorozchynnyy.pdf"
+    },
+    {
+        "id": "AK_471",
+        "card_number": "471",
+        "chemical_name": "Октадієн",
+        "full_label": "АК 471 - Октадієн",
+        "file_path": "cards/AK_471_Oktadien.pdf"
+    },
+    {
+        "id": "AK_472",
+        "card_number": "472",
+        "chemical_name": "Октафторциклобутан",
+        "full_label": "АК 472 - Октафторциклобутан",
+        "file_path": "cards/AK_472_Oktaftortsyklobutan.pdf"
+    },
+    {
+        "id": "AK_473",
+        "card_number": "473",
+        "chemical_name": "Олеум",
+        "full_label": "АК 473 - Олеум",
+        "file_path": "cards/AK_473_Oleum.pdf"
+    },
+    {
+        "id": "AK_474",
+        "card_number": "474",
+        "chemical_name": "Олова Тетрахлорид",
+        "full_label": "АК 474 - Олова Тетрахлорид",
+        "file_path": "cards/AK_474_Olova_Tetrakhloryd.pdf"
+    },
+    {
+        "id": "AK_475",
+        "card_number": "475",
+        "chemical_name": "Омега-Хлорацетофенон",
+        "full_label": "АК 475 - Омега-Хлорацетофенон",
+        "file_path": "cards/AK_475_Omega-Khloratsetofenon.pdf"
+    },
+    {
+        "id": "AK_476",
+        "card_number": "476",
+        "chemical_name": "О-Нітрохлорбензол",
+        "full_label": "АК 476 - О-Нітрохлорбензол",
+        "file_path": "cards/AK_476_O-Nitrokhlorbenzol.pdf"
+    },
+    {
+        "id": "AK_477",
+        "card_number": "477",
+        "chemical_name": "О-Хлоранілін",
+        "full_label": "АК 477 - О-Хлоранілін",
+        "file_path": "cards/AK_477_O-Khloranilin.pdf"
+    },
+    {
+        "id": "AK_478",
+        "card_number": "478",
+        "chemical_name": "Оцтова Кислота",
+        "full_label": "АК 478 - Оцтова Кислота",
+        "file_path": "cards/AK_478_Otsova_Kyslot.pdf"
+    },
+    {
+        "id": "AK_479",
+        "card_number": "479",
+        "chemical_name": "Оцтовий Ангідрид",
+        "full_label": "АК 479 - Оцтовий Ангідрид",
+        "file_path": "cards/AK_479_Otsovy_Angidryd.pdf"
+    },
+    {
+        "id": "AK_480",
+        "card_number": "480",
+        "chemical_name": "Параформальдегід",
+        "full_label": "АК 480 - Параформальдегід",
+        "file_path": "cards/AK_480_Paraformaldegyd.pdf"
+    },
+    {
+        "id": "AK_481",
+        "card_number": "481",
+        "chemical_name": "П-Динітробензол",
+        "full_label": "АК 481 - П-Динітробензол",
+        "file_path": "cards/AK_481_P-Dynytrobenzol.pdf"
+    },
+    {
+        "id": "AK_482",
+        "card_number": "482",
+        "chemical_name": "Пентаметилгептан",
+        "full_label": "АК 482 - Пентаметилгептан",
+        "file_path": "cards/AK_482_Pentametylheptan.pdf"
+    },
+    {
+        "id": "AK_483",
+        "card_number": "483",
+        "chemical_name": "Пентан",
+        "full_label": "АК 483 - Пентан",
+        "file_path": "cards/AK_483_Pentan.pdf"
+    },
+    {
+        "id": "AK_484",
+        "card_number": "484",
+        "chemical_name": "Пентафторхлоретан",
+        "full_label": "АК 484 - Пентафторхлоретан",
+        "file_path": "cards/AK_484_Pentaftorkhloretan.pdf"
+    },
+    {
+        "id": "AK_485",
+        "card_number": "485",
+        "chemical_name": "Пентахлоретан",
+        "full_label": "АК 485 - Пентахлоретан",
+        "file_path": "cards/AK_485_Pentakhloretan.pdf"
+    },
+    {
+        "id": "AK_486",
+        "card_number": "486",
+        "chemical_name": "Пероксид Водню",
+        "full_label": "АК 486 - Пероксид Водню",
+        "file_path": "cards/AK_486_Peroksyd_Vodniu.pdf"
+    },
+    {
+        "id": "AK_487",
+        "card_number": "487",
+        "chemical_name": "Перхлоратна Кислота",
+        "full_label": "АК 487 - Перхлоратна Кислота",
+        "file_path": "cards/AK_487_Perkhloratna_Kyslot.pdf"
+    },
+    {
+        "id": "AK_488",
+        "card_number": "488",
+        "chemical_name": "Пестициди Феноксивмісні",
+        "full_label": "АК 488 - Пестициди Феноксивмісні",
+        "file_path": "cards/AK_488_Pestitsydy_Fenoksyvmisni.pdf"
+    },
+    {
+        "id": "AK_489",
+        "card_number": "489",
+        "chemical_name": "Пестициди, Карбамати, Рідкі",
+        "full_label": "АК 489 - Пестициди, Карбамати, Рідкі",
+        "file_path": "cards/AK_489_Pestitsydy_Karbamaty_Ridki.pdf"
+    },
+    {
+        "id": "AK_490",
+        "card_number": "490",
+        "chemical_name": "Пестициди, Карбамати, Тверді",
+        "full_label": "АК 490 - Пестициди, Карбамати, Тверді",
+        "file_path": "cards/AK_490_Pestitsydy_Karbamaty_Tverdi.pdf"
+    },
+    {
+        "id": "AK_491",
+        "card_number": "491",
+        "chemical_name": "Пестициди, Неорг.Сполуки Арсену, Рідкі",
+        "full_label": "АК 491 - Пестициди, Неорг.Сполуки Арсену, Рідкі",
+        "file_path": "cards/AK_491_Pestitsydy_Neorg_Spoluky_Arsenu_Ridki.pdf"
+    },
+    {
+        "id": "AK_492",
+        "card_number": "492",
+        "chemical_name": "Пестициди, Неорг.Сполуки Ртуті, Рідкі",
+        "full_label": "АК 492 - Пестициди, Неорг.Сполуки Ртуті, Рідкі",
+        "file_path": "cards/AK_492_Pestitsydy_Neorg_Spoluky_Rtuti_Ridki.pdf"
+    },
+    {
+        "id": "AK_493",
+        "card_number": "493",
+        "chemical_name": "Пестициди, Неорг.Сполуки Ртуті, Рідкі",
+        "full_label": "АК 493 - Пестициди, Неорг.Сполуки Ртуті, Рідкі",
+        "file_path": "cards/AK_493_Pestitsydy_Neorg_Spoluky_Rtuti_Ridki.pdf"
+    },
+    {
+        "id": "AK_494",
+        "card_number": "494",
+        "chemical_name": "Пестициди, Орг.Сполуки Олова, Рідкі",
+        "full_label": "АК 494 - Пестициди, Орг.Сполуки Олова, Рідкі",
+        "file_path": "cards/AK_494_Pestitsydy_Org_Spoluky_Olova_Ridki.pdf"
+    },
+    {
+        "id": "AK_495",
+        "card_number": "495",
+        "chemical_name": "Пестициди, Орг.Сполуки Олова, Рідкі",
+        "full_label": "АК 495 - Пестициди, Орг.Сполуки Олова, Рідкі",
+        "file_path": "cards/AK_495_Pestitsydy_Org_Spoluky_Olova_Ridki.pdf"
+    },
+    {
+        "id": "AK_496",
+        "card_number": "496",
+        "chemical_name": "Пестициди, Орг.Сполуки Фосфору, Рідкі",
+        "full_label": "АК 496 - Пестициди, Орг.Сполуки Фосфору, Рідкі",
+        "file_path": "cards/AK_496_Pestitsydy_Org_Spoluky_Fosforu_Ridki.pdf"
+    },
+    {
+        "id": "AK_497",
+        "card_number": "497",
+        "chemical_name": "Пестициди, Орг.Сполуки Фосфору, Рідкі",
+        "full_label": "АК 497 - Пестициди, Орг.Сполуки Фосфору, Рідкі",
+        "file_path": "cards/AK_497_Pestitsydy_Org_Spoluky_Fosforu_Ridki.pdf"
+    },
+    {
+        "id": "AK_498",
+        "card_number": "498",
+        "chemical_name": "Пестициди, Похідні Біпіридилію, Рідкі",
+        "full_label": "АК 498 - Пестициди, Похідні Біпіридилію, Рідкі",
+        "file_path": "cards/AK_498_Pestitsydy_Pohidni_Bipirydyliu_Ridki.pdf"
+    },
+    {
+        "id": "AK_499",
+        "card_number": "499",
+        "chemical_name": "Пестициди, Похідні Біпіридилію, Рідкі",
+        "full_label": "АК 499 - Пестициди, Похідні Біпіридилію, Рідкі",
+        "file_path": "cards/AK_499_Pestitsydy_Pohidni_Bipirydyliu_Ridki.pdf"
+    },
+    {
+        "id": "AK_500",
+        "card_number": "500",
+        "chemical_name": "Пестициди, Похідні Хлорфеноксикислоти",
+        "full_label": "АК 500 - Пестициди, Похідні Хлорфеноксикислоти",
+        "file_path": "cards/AK_500_Pestitsydy_Pohidni_Khlorfenoksykysloti.pdf"
     }
 ]
