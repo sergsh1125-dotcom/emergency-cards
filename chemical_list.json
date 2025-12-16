@@ -3298,5 +3298,1391 @@
         "chemical_name": "Пестициди, Похідні Хлорфеноксикислоти",
         "full_label": "АК 500 - Пестициди, Похідні Хлорфеноксикислоти",
         "file_path": "cards/AK_500_Pestitsydy_Pohidni_Khlorfenoksykysloti.pdf"
+    },
+    {
+        "id": "AK_501",
+        "card_number": "501",
+        "chemical_name": "Пестициди, Сполуки Міді, Рідкі",
+        "full_label": "АК 501 - Пестициди, Сполуки Міді, Рідкі",
+        "file_path": "cards/AK_501_Pesticidy_Midi_Ridki.pdf"
+    },
+    {
+        "id": "AK_502",
+        "card_number": "502",
+        "chemical_name": "Пестициди, Сполуки Міді, Рідкі, Незаймисті",
+        "full_label": "АК 502 - Пестициди, Сполуки Міді, Рідкі, Незаймисті",
+        "file_path": "cards/AK_502_Pesticidy_Midi_Ridki_Nezaymisti.pdf"
+    },
+    {
+        "id": "AK_503",
+        "card_number": "503",
+        "chemical_name": "Пестициди, Тіокарбамати, Рідкі",
+        "full_label": "АК 503 - Пестициди, Тіокарбамати, Рідкі",
+        "file_path": "cards/AK_503_Pesticidy_Tiokarbaty_Ridki.pdf"
+    },
+    {
+        "id": "AK_504",
+        "card_number": "504",
+        "chemical_name": "Пестициди, Хлоровані Вуглеводні, Рідкі",
+        "full_label": "АК 504 - Пестициди, Хлоровані Вуглеводні, Рідкі",
+        "file_path": "cards/AK_504_Pesticidy_Chlorovani_Vuglevodni.pdf"
+    },
+    {
+        "id": "AK_505",
+        "card_number": "505",
+        "chemical_name": "Пікринова Кислота",
+        "full_label": "АК 505 - Пікринова Кислота",
+        "file_path": "cards/AK_505_Pikrynova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_506",
+        "card_number": "506",
+        "chemical_name": "Пінангідропероксид",
+        "full_label": "АК 506 - Пінангідропероксид",
+        "file_path": "cards/AK_506_Pinanhydroperoksyd.pdf"
+    },
+    {
+        "id": "AK_507",
+        "card_number": "507",
+        "chemical_name": "Піперазин",
+        "full_label": "АК 507 - Піперазин",
+        "file_path": "cards/AK_507_Piperazyn.pdf"
+    },
+    {
+        "id": "AK_508",
+        "card_number": "508",
+        "chemical_name": "Піперидин",
+        "full_label": "АК 508 - Піперидин",
+        "file_path": "cards/AK_508_Piperydyn.pdf"
+    },
+    {
+        "id": "AK_509",
+        "card_number": "509",
+        "chemical_name": "Піридин",
+        "full_label": "АК 509 - Піридин",
+        "file_path": "cards/AK_509_Pirydyn.pdf"
+    },
+    {
+        "id": "AK_510",
+        "card_number": "510",
+        "chemical_name": "Піролідин",
+        "full_label": "АК 510 - Піролідин",
+        "file_path": "cards/AK_510_Pirolidyn.pdf"
+    },
+    {
+        "id": "AK_511",
+        "card_number": "511",
+        "chemical_name": "Пірофорні Метали",
+        "full_label": "АК 511 - Пірофорні Метали",
+        "file_path": "cards/AK_511_Piroforni_Metaly.pdf"
+    },
+    {
+        "id": "AK_512",
+        "card_number": "512",
+        "chemical_name": "П-Крезол",
+        "full_label": "АК 512 - П-Крезол",
+        "file_path": "cards/AK_512_P-Krezol.pdf"
+    },
+    {
+        "id": "AK_513",
+        "card_number": "513",
+        "chemical_name": "П-Ментангідропероксид",
+        "full_label": "АК 513 - П-Ментангідропероксид",
+        "file_path": "cards/AK_513_P-Mentanhydroperoksyd.pdf"
+    },
+    {
+        "id": "AK_514",
+        "card_number": "514",
+        "chemical_name": "П-Нітроанілін",
+        "full_label": "АК 514 - П-Нітроанілін",
+        "file_path": "cards/AK_514_P-Nitroanilin.pdf"
+    },
+    {
+        "id": "AK_515",
+        "card_number": "515",
+        "chemical_name": "П-Нітрофенол",
+        "full_label": "АК 515 - П-Нітрофенол",
+        "file_path": "cards/AK_515_P-Nitrofenol.pdf"
+    },
+    {
+        "id": "AK_516",
+        "card_number": "516",
+        "chemical_name": "Повітря, Зріджене",
+        "full_label": "АК 516 - Повітря, Зріджене",
+        "file_path": "cards/AK_516_Povitrya_Zridzhene.pdf"
+    },
+    {
+        "id": "AK_517",
+        "card_number": "517",
+        "chemical_name": "Пропадієн",
+        "full_label": "АК 517 - Пропадієн",
+        "file_path": "cards/AK_517_Propadiyen.pdf"
+    },
+    {
+        "id": "AK_518",
+        "card_number": "518",
+        "chemical_name": "Пропаналь",
+        "full_label": "АК 518 - Пропаналь",
+        "file_path": "cards/AK_518_Propanal.pdf"
+    },
+    {
+        "id": "AK_519",
+        "card_number": "519",
+        "chemical_name": "Пропантіол",
+        "full_label": "АК 519 - Пропантіол",
+        "file_path": "cards/AK_519_Propantiol.pdf"
+    },
+    {
+        "id": "AK_520",
+        "card_number": "520",
+        "chemical_name": "Пропіламін",
+        "full_label": "АК 520 - Пропіламін",
+        "file_path": "cards/AK_520_Propilamin.pdf"
+    },
+    {
+        "id": "AK_521",
+        "card_number": "521",
+        "chemical_name": "Пропілен",
+        "full_label": "АК 521 - Пропілен",
+        "file_path": "cards/AK_521_Propilen.pdf"
+    },
+    {
+        "id": "AK_522",
+        "card_number": "522",
+        "chemical_name": "Пропілендихлорид",
+        "full_label": "АК 522 - Пропілендихлорид",
+        "file_path": "cards/AK_522_Propilendichlorid.pdf"
+    },
+    {
+        "id": "AK_523",
+        "card_number": "523",
+        "chemical_name": "Пропілендіамін",
+        "full_label": "АК 523 - Пропілендіамін",
+        "file_path": "cards/AK_523_Propilendiamin.pdf"
+    },
+    {
+        "id": "AK_524",
+        "card_number": "524",
+        "chemical_name": "Пропіленімін, Стабілізований",
+        "full_label": "АК 524 - Пропіленімін, Стабілізований",
+        "file_path": "cards/AK_524_Propilenimin_Stabilizovanyy.pdf"
+    },
+    {
+        "id": "AK_525",
+        "card_number": "525",
+        "chemical_name": "Пропіонілхлорид",
+        "full_label": "АК 525 - Пропіонілхлорид",
+        "file_path": "cards/AK_525_Propionilchlorid.pdf"
+    },
+    {
+        "id": "AK_526",
+        "card_number": "526",
+        "chemical_name": "Пропіонітрил",
+        "full_label": "АК 526 - Пропіонітрил",
+        "file_path": "cards/AK_526_Propionitril.pdf"
+    },
+    {
+        "id": "AK_527",
+        "card_number": "527",
+        "chemical_name": "Пропіонова Кислота",
+        "full_label": "АК 527 - Пропіонова Кислота",
+        "file_path": "cards/AK_527_Propionova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_528",
+        "card_number": "528",
+        "chemical_name": "П-Трет-Бутилфенол",
+        "full_label": "АК 528 - П-Трет-Бутилфенол",
+        "file_path": "cards/AK_528_P-Tret-Butilfenol.pdf"
+    },
+    {
+        "id": "AK_529",
+        "card_number": "529",
+        "chemical_name": "П-Хлоранілін",
+        "full_label": "АК 529 - П-Хлоранілін",
+        "file_path": "cards/AK_529_P-Chloranilin.pdf"
+    },
+    {
+        "id": "AK_530",
+        "card_number": "530",
+        "chemical_name": "П-Хлорфенол",
+        "full_label": "АК 530 - П-Хлорфенол",
+        "file_path": "cards/AK_530_P-Chlorfenol.pdf"
+    },
+    {
+        "id": "AK_531",
+        "card_number": "531",
+        "chemical_name": "П-Цимол",
+        "full_label": "АК 531 - П-Цимол",
+        "file_path": "cards/AK_531_P-Tsimol.pdf"
+    },
+    {
+        "id": "AK_532",
+        "card_number": "532",
+        "chemical_name": "Резорцин",
+        "full_label": "АК 532 - Резорцин",
+        "file_path": "cards/AK_532_Rezortsyn.pdf"
+    },
+    {
+        "id": "AK_533",
+        "card_number": "533",
+        "chemical_name": "Ртуті Оксиціанід",
+        "full_label": "АК 533 - Ртуті Оксиціанід",
+        "file_path": "cards/AK_533_Rtuti_Okysianid.pdf"
+    },
+    {
+        "id": "AK_534",
+        "card_number": "534",
+        "chemical_name": "Ртуті (Іі) Ацетат",
+        "full_label": "АК 534 - Ртуті (Іі) Ацетат",
+        "file_path": "cards/AK_534_Rtuti_II_Atsetat.pdf"
+    },
+    {
+        "id": "AK_535",
+        "card_number": "535",
+        "chemical_name": "Ртуті (Іі) Нітрат",
+        "full_label": "АК 535 - Ртуті (Іі) Нітрат",
+        "file_path": "cards/AK_535_Rtuti_II_Nitrat.pdf"
+    },
+    {
+        "id": "AK_536",
+        "card_number": "536",
+        "chemical_name": "Ртуті (Іі) Оксид",
+        "full_label": "АК 536 - Ртуті (Іі) Оксид",
+        "file_path": "cards/AK_536_Rtuti_II_Okysyd.pdf"
+    },
+    {
+        "id": "AK_537",
+        "card_number": "537",
+        "chemical_name": "Ртуті (Іі) Сульфат",
+        "full_label": "АК 537 - Ртуті (Іі) Сульфат",
+        "file_path": "cards/AK_537_Rtuti_II_Sulfat.pdf"
+    },
+    {
+        "id": "AK_538",
+        "card_number": "538",
+        "chemical_name": "Ртуті (Іі) Тіоціанат",
+        "full_label": "АК 538 - Ртуті (Іі) Тіоціанат",
+        "file_path": "cards/AK_538_Rtuti_II_Tiotsianat.pdf"
+    },
+    {
+        "id": "AK_539",
+        "card_number": "539",
+        "chemical_name": "Ртуті (Іі) Хлорид",
+        "full_label": "АК 539 - Ртуті (Іі) Хлорид",
+        "file_path": "cards/AK_539_Rtuti_II_Chlorid.pdf"
+    },
+    {
+        "id": "AK_540",
+        "card_number": "540",
+        "chemical_name": "Ртуті (Іі) Ціанід",
+        "full_label": "АК 540 - Ртуті (Іі) Ціанід",
+        "file_path": "cards/AK_540_Rtuti_II_Tsianid.pdf"
+    },
+    {
+        "id": "AK_541",
+        "card_number": "541",
+        "chemical_name": "Свинцю Ацетат",
+        "full_label": "АК 541 - Свинцю Ацетат",
+        "file_path": "cards/AK_541_Svyntsiu_Atsetat.pdf"
+    },
+    {
+        "id": "AK_542",
+        "card_number": "542",
+        "chemical_name": "Свинцю Диоксид",
+        "full_label": "АК 542 - Свинцю Диоксид",
+        "file_path": "cards/AK_542_Svyntsiu_Dyoksyd.pdf"
+    },
+    {
+        "id": "AK_543",
+        "card_number": "543",
+        "chemical_name": "Свинцю Нітрат",
+        "full_label": "АК 543 - Свинцю Нітрат",
+        "file_path": "cards/AK_543_Svyntsiu_Nitrat.pdf"
+    },
+    {
+        "id": "AK_544",
+        "card_number": "544",
+        "chemical_name": "Свинцю Сполуки",
+        "full_label": "АК 544 - Свинцю Сполуки",
+        "file_path": "cards/AK_544_Svyntsiu_Spoluky.pdf"
+    },
+    {
+        "id": "AK_545",
+        "card_number": "545",
+        "chemical_name": "Селен",
+        "full_label": "АК 545 - Селен",
+        "file_path": "cards/AK_545_Selen.pdf"
+    },
+    {
+        "id": "AK_546",
+        "card_number": "546",
+        "chemical_name": "Селенова Кислота",
+        "full_label": "АК 546 - Селенова Кислота",
+        "file_path": "cards/AK_546_Selenova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_547",
+        "card_number": "547",
+        "chemical_name": "Селеноводень",
+        "full_label": "АК 547 - Селеноводень",
+        "file_path": "cards/AK_547_Selenovoden.pdf"
+    },
+    {
+        "id": "AK_548",
+        "card_number": "548",
+        "chemical_name": "Селену Дисульфід",
+        "full_label": "АК 548 - Селену Дисульфід",
+        "file_path": "cards/AK_548_Selenu_Dysulfid.pdf"
+    },
+    {
+        "id": "AK_549",
+        "card_number": "549",
+        "chemical_name": "Силан",
+        "full_label": "АК 549 - Силан",
+        "file_path": "cards/AK_549_Sylan.pdf"
+    },
+    {
+        "id": "AK_550",
+        "card_number": "550",
+        "chemical_name": "Силіцію Тетрафторид",
+        "full_label": "АК 550 - Силіцію Тетрафторид",
+        "file_path": "cards/AK_550_Silitsiu_Tetraftorid.pdf"
+    },
+    {
+        "id": "AK_551",
+        "card_number": "551",
+        "chemical_name": "Силіцію Тетрахлорид",
+        "full_label": "АК 551 - Силіцію Тетрахлорид",
+        "file_path": "cards/AK_551_Silitsiu_Tetrachlorid.pdf"
+    },
+    {
+        "id": "AK_552",
+        "card_number": "552",
+        "chemical_name": "Синильна Кислота, Водні Розчини",
+        "full_label": "АК 552 - Синильна Кислота, Водні Розчини",
+        "file_path": "cards/AK_552_Synylna_Kysloita_Vodnyy_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_553",
+        "card_number": "553",
+        "chemical_name": "Сірка",
+        "full_label": "АК 553 - Сірка",
+        "file_path": "cards/AK_553_Sirka.pdf"
+    },
+    {
+        "id": "AK_554",
+        "card_number": "554",
+        "chemical_name": "Сірки Триоксид",
+        "full_label": "АК 554 - Сірки Триоксид",
+        "file_path": "cards/AK_554_Sirky_Trioksyd.pdf"
+    },
+    {
+        "id": "AK_555",
+        "card_number": "555",
+        "chemical_name": "Сірки Хлорид",
+        "full_label": "АК 555 - Сірки Хлорид",
+        "file_path": "cards/AK_555_Sirky_Chlorid.pdf"
+    },
+    {
+        "id": "AK_556",
+        "card_number": "556",
+        "chemical_name": "Сірководень, Зріджений",
+        "full_label": "АК 556 - Сірководень, Зріджений",
+        "file_path": "cards/AK_556_Sirkovoden_Zridzhyeny.pdf"
+    },
+    {
+        "id": "AK_557",
+        "card_number": "557",
+        "chemical_name": "Сірковуглець",
+        "full_label": "АК 557 - Сірковуглець",
+        "file_path": "cards/AK_557_Sirkovuglets.pdf"
+    },
+    {
+        "id": "AK_558",
+        "card_number": "558",
+        "chemical_name": "Смоли Акрилові, Самозаймисті Розчини",
+        "full_label": "АК 558 - Смоли Акрилові, Самозаймисті Розчини",
+        "file_path": "cards/AK_558_Smoly_Akrylovi_Samozaymysti_Rozchyny.pdf"
+    },
+    {
+        "id": "AK_559",
+        "card_number": "559",
+        "chemical_name": "Срібла Нітрат",
+        "full_label": "АК 559 - Срібла Нітрат",
+        "file_path": "cards/AK_559_Sribla_Nitrat.pdf"
+    },
+    {
+        "id": "AK_560",
+        "card_number": "560",
+        "chemical_name": "Срібла Ціанід",
+        "full_label": "АК 560 - Срібла Ціанід",
+        "file_path": "cards/AK_560_Sribla_Tsianid.pdf"
+    },
+    {
+        "id": "AK_561",
+        "card_number": "561",
+        "chemical_name": "Стибію Пентафторид",
+        "full_label": "АК 561 - Стибію Пентафторид",
+        "file_path": "cards/AK_561_Stybiu_Pentaftorid.pdf"
+    },
+    {
+        "id": "AK_562",
+        "card_number": "562",
+        "chemical_name": "Стибію Пентахлорид",
+        "full_label": "АК 562 - Стибію Пентахлорид",
+        "file_path": "cards/AK_562_Stybiu_Pentachlorid.pdf"
+    },
+    {
+        "id": "AK_563",
+        "card_number": "563",
+        "chemical_name": "Стибію Трихлорид",
+        "full_label": "АК 563 - Стибію Трихлорид",
+        "file_path": "cards/AK_563_Stybiu_Trichlorid.pdf"
+    },
+    {
+        "id": "AK_564",
+        "card_number": "564",
+        "chemical_name": "Стронцію Нітрат",
+        "full_label": "АК 564 - Стронцію Нітрат",
+        "file_path": "cards/AK_564_Strontsiu_Nitrat.pdf"
+    },
+    {
+        "id": "AK_565",
+        "card_number": "565",
+        "chemical_name": "Сульфурилхлорид",
+        "full_label": "АК 565 - Сульфурилхлорид",
+        "file_path": "cards/AK_565_Sulfurylchlorid.pdf"
+    },
+    {
+        "id": "AK_566",
+        "card_number": "566",
+        "chemical_name": "Суміш Азотної І Соляної Кислот",
+        "full_label": "АК 566 - Суміш Азотної І Соляної Кислот",
+        "file_path": "cards/AK_566_Sumish_Azotnoyi_i_Solyanoyi_Kyslot.pdf"
+    },
+    {
+        "id": "AK_567",
+        "card_number": "567",
+        "chemical_name": "Суміш Сульфатної І Фтороводневої Кислот",
+        "full_label": "АК 567 - Суміш Сульфатної І Фтороводневої Кислот",
+        "file_path": "cards/AK_567_Sumish_Sulfatnoyi_i_Ftorovodnevoyi_Kyslot.pdf"
+    },
+    {
+        "id": "AK_568",
+        "card_number": "568",
+        "chemical_name": "Терпенові Вуглеводні",
+        "full_label": "АК 568 - Терпенові Вуглеводні",
+        "file_path": "cards/AK_568_Terpenovi_Vuglevodni.pdf"
+    },
+    {
+        "id": "AK_569",
+        "card_number": "569",
+        "chemical_name": "Терпінолен",
+        "full_label": "АК 569 - Терпінолен",
+        "file_path": "cards/AK_569_Terpinolen.pdf"
+    },
+    {
+        "id": "AK_570",
+        "card_number": "570",
+        "chemical_name": "Тетрабромметан",
+        "full_label": "АК 570 - Тетрабромметан",
+        "file_path": "cards/AK_570_Tetrabrommetan.pdf"
+    },
+    {
+        "id": "AK_571",
+        "card_number": "571",
+        "chemical_name": "Тетрагідротіофен",
+        "full_label": "АК 571 - Тетрагідротіофен",
+        "file_path": "cards/AK_571_Tetrahidrotiofen.pdf"
+    },
+    {
+        "id": "AK_572",
+        "card_number": "572",
+        "chemical_name": "Тетрагідрофуран",
+        "full_label": "АК 572 - Тетрагідрофуран",
+        "file_path": "cards/AK_572_Tetrahydrofuran.pdf"
+    },
+    {
+        "id": "AK_573",
+        "card_number": "573",
+        "chemical_name": "Тетраметиламонію Гідроксид",
+        "full_label": "АК 573 - Тетраметиламонію Гідроксид",
+        "file_path": "cards/AK_573_Tetrametylamoniu_Hydroksyd.pdf"
+    },
+    {
+        "id": "AK_574",
+        "card_number": "574",
+        "chemical_name": "Тетраметилсилан",
+        "full_label": "АК 574 - Тетраметилсилан",
+        "file_path": "cards/AK_574_Tetrametylsylan.pdf"
+    },
+    {
+        "id": "AK_575",
+        "card_number": "575",
+        "chemical_name": "Тетранітрометан",
+        "full_label": "АК 575 - Тетранітрометан",
+        "file_path": "cards/AK_575_Tetranitrometan.pdf"
+    },
+    {
+        "id": "AK_576",
+        "card_number": "576",
+        "chemical_name": "Тетрапропіл-Ортотитанат",
+        "full_label": "АК 576 - Тетрапропіл-Ортотитанат",
+        "file_path": "cards/AK_576_Tetrapropil_Ortotytanat.pdf"
+    },
+    {
+        "id": "AK_577",
+        "card_number": "577",
+        "chemical_name": "Тетрафтордихлоретан",
+        "full_label": "АК 577 - Тетрафтордихлоретан",
+        "file_path": "cards/AK_577_Tetraftordychloretan.pdf"
+    },
+    {
+        "id": "AK_578",
+        "card_number": "578",
+        "chemical_name": "Тетрафторметан",
+        "full_label": "АК 578 - Тетрафторметан",
+        "file_path": "cards/AK_578_Tetraftormetan.pdf"
+    },
+    {
+        "id": "AK_579",
+        "card_number": "579",
+        "chemical_name": "Тетрахлоретилен",
+        "full_label": "АК 579 - Тетрахлоретилен",
+        "file_path": "cards/AK_579_Tetrachloretylen.pdf"
+    },
+    {
+        "id": "AK_580",
+        "card_number": "580",
+        "chemical_name": "Тетрахлорид Вуглецю",
+        "full_label": "АК 580 - Тетрахлорид Вуглецю",
+        "file_path": "cards/AK_580_Tetrachlorid_Vugleciu.pdf"
+    },
+    {
+        "id": "AK_581",
+        "card_number": "581",
+        "chemical_name": "Титану Тетрахлорид",
+        "full_label": "АК 581 - Титану Тетрахлорид",
+        "file_path": "cards/AK_581_Tytanu_Tetrachlorid.pdf"
+    },
+    {
+        "id": "AK_582",
+        "card_number": "582",
+        "chemical_name": "Титану Трихлорид",
+        "full_label": "АК 582 - Титану Трихлорид",
+        "file_path": "cards/AK_582_Tytanu_Trichlorid.pdf"
+    },
+    {
+        "id": "AK_583",
+        "card_number": "583",
+        "chemical_name": "Тіогліколева Кислота",
+        "full_label": "АК 583 - Тіогліколева Кислота",
+        "file_path": "cards/AK_583_Tioglikoleva_Kysloita.pdf"
+    },
+    {
+        "id": "AK_584",
+        "card_number": "584",
+        "chemical_name": "Тіонілхлорид",
+        "full_label": "АК 584 - Тіонілхлорид",
+        "file_path": "cards/AK_584_Tionylchlorid.pdf"
+    },
+    {
+        "id": "AK_585",
+        "card_number": "585",
+        "chemical_name": "Тіооцтова Кислота",
+        "full_label": "АК 585 - Тіооцтова Кислота",
+        "file_path": "cards/AK_585_Tiootsova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_586",
+        "card_number": "586",
+        "chemical_name": "Тіопентаналь-4",
+        "full_label": "АК 586 - Тіопентаналь-4",
+        "file_path": "cards/AK_586_Tiopentanal-4.pdf"
+    },
+    {
+        "id": "AK_587",
+        "card_number": "587",
+        "chemical_name": "Тіофен",
+        "full_label": "АК 587 - Тіофен",
+        "file_path": "cards/AK_587_Tiofen.pdf"
+    },
+    {
+        "id": "AK_588",
+        "card_number": "588",
+        "chemical_name": "Тіофосген",
+        "full_label": "АК 588 - Тіофосген",
+        "file_path": "cards/AK_588_Tiofosgen.pdf"
+    },
+    {
+        "id": "AK_589",
+        "card_number": "589",
+        "chemical_name": "Тіофосфорилхлорид",
+        "full_label": "АК 589 - Тіофосфорилхлорид",
+        "file_path": "cards/AK_589_Tiofosforylchlorid.pdf"
+    },
+    {
+        "id": "AK_590",
+        "card_number": "590",
+        "chemical_name": "Толуідин",
+        "full_label": "АК 590 - Толуідин",
+        "file_path": "cards/AK_590_Toluidin.pdf"
+    },
+    {
+        "id": "AK_591",
+        "card_number": "591",
+        "chemical_name": "Толуол",
+        "full_label": "АК 591 - Толуол",
+        "file_path": "cards/AK_591_Toluol.pdf"
+    },
+    {
+        "id": "AK_592",
+        "card_number": "592",
+        "chemical_name": "Толуолсульфонова Кислота, Тверда",
+        "full_label": "АК 592 - Толуолсульфонова Кислота, Тверда",
+        "file_path": "cards/AK_592_Toluolsulfonova_Kysloita_Tverda.pdf"
+    },
+    {
+        "id": "AK_593",
+        "card_number": "593",
+        "chemical_name": "Триаліламін",
+        "full_label": "АК 593 - Триаліламін",
+        "file_path": "cards/AK_593_Trialilamin.pdf"
+    },
+    {
+        "id": "AK_594",
+        "card_number": "594",
+        "chemical_name": "Триалілборат",
+        "full_label": "АК 594 - Триалілборат",
+        "file_path": "cards/AK_594_Trialilborat.pdf"
+    },
+    {
+        "id": "AK_595",
+        "card_number": "595",
+        "chemical_name": "Трибутиламін",
+        "full_label": "АК 595 - Трибутиламін",
+        "file_path": "cards/AK_595_Trybutylamin.pdf"
+    },
+    {
+        "id": "AK_596",
+        "card_number": "596",
+        "chemical_name": "Триетилалюміній",
+        "full_label": "АК 596 - Триетилалюміній",
+        "file_path": "cards/AK_596_Tryetylaliuminiy.pdf"
+    },
+    {
+        "id": "AK_597",
+        "card_number": "597",
+        "chemical_name": "Триетилентетрамін",
+        "full_label": "АК 597 - Триетилентетрамін",
+        "file_path": "cards/AK_597_Tryetylentetramin.pdf"
+    },
+    {
+        "id": "AK_598",
+        "card_number": "598",
+        "chemical_name": "Триетилфосфіт",
+        "full_label": "АК 598 - Триетилфосфіт",
+        "file_path": "cards/AK_598_Tryetylfosfit.pdf"
+    },
+    {
+        "id": "AK_599",
+        "card_number": "599",
+        "chemical_name": "Триізобутилен",
+        "full_label": "АК 599 - Триізобутилен",
+        "file_path": "cards/AK_599_Tryizobutylen.pdf"
+    },
+    {
+        "id": "AK_600",
+        "card_number": "600",
+        "chemical_name": "Трикрезилфосфат",
+        "full_label": "АК 600 - Трикрезилфосфат",
+        "file_path": "cards/AK_600_Trykrezylfosfat.pdf"
+    },
+    {
+        "id": "AK_601",
+        "card_number": "601",
+        "chemical_name": "Триметилацетилхлорид",
+        "full_label": "АК 601 - Триметилацетилхлорид",
+        "file_path": "cards/AK_601_Trymetylatsetylchlorid.pdf"
+    },
+    {
+        "id": "AK_602",
+        "card_number": "602",
+        "chemical_name": "Триметилборат",
+        "full_label": "АК 602 - Триметилборат",
+        "file_path": "cards/AK_602_Trymetylborat.pdf"
+    },
+    {
+        "id": "AK_603",
+        "card_number": "603",
+        "chemical_name": "Триметилгексаметилендіамін",
+        "full_label": "АК 603 - Триметилгексаметилендіамін",
+        "file_path": "cards/AK_603_Trymetylheksametylendiamin.pdf"
+    },
+    {
+        "id": "AK_604",
+        "card_number": "604",
+        "chemical_name": "Триметилциклогексиламін",
+        "full_label": "АК 604 - Триметилциклогексиламін",
+        "file_path": "cards/AK_604_Trymetyltsyklroheksylamin.pdf"
+    },
+    {
+        "id": "AK_605",
+        "card_number": "605",
+        "chemical_name": "Тринітротолуол",
+        "full_label": "АК 605 - Тринітротолуол",
+        "file_path": "cards/AK_605_Trynitrotoluol.pdf"
+    },
+    {
+        "id": "AK_606",
+        "card_number": "606",
+        "chemical_name": "Трипропіламін",
+        "full_label": "АК 606 - Трипропіламін",
+        "file_path": "cards/AK_606_Trypropylamin.pdf"
+    },
+    {
+        "id": "AK_607",
+        "card_number": "607",
+        "chemical_name": "Трипропілен",
+        "full_label": "АК 607 - Трипропілен",
+        "file_path": "cards/AK_607_Trypropilen.pdf"
+    },
+    {
+        "id": "AK_608",
+        "card_number": "608",
+        "chemical_name": "Трифторметан",
+        "full_label": "АК 608 - Трифторметан",
+        "file_path": "cards/AK_608_Tryftormetan.pdf"
+    },
+    {
+        "id": "AK_609",
+        "card_number": "609",
+        "chemical_name": "Трифторацетатна кислота",
+        "full_label": "АК 609 - Трифторацетатна кислота",
+        "file_path": "cards/AK_609_Tryftoratsetatna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_610",
+        "card_number": "610",
+        "chemical_name": "Трифторбензилізоціанат",
+        "full_label": "АК 610 - Трифторбензилізоціанат",
+        "file_path": "cards/AK_610_Tryftorbenzylizotsianat.pdf"
+    },
+    {
+        "id": "AK_611",
+        "card_number": "611",
+        "chemical_name": "Трифторхлоретан",
+        "full_label": "АК 611 - Трифторхлоретан",
+        "file_path": "cards/AK_611_Tryftorchloretan.pdf"
+    },
+    {
+        "id": "AK_612",
+        "card_number": "612",
+        "chemical_name": "Трихлорацетатна кислота",
+        "full_label": "АК 612 - Трихлорацетатна кислота",
+        "file_path": "cards/AK_612_Trychloratsetatna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_613",
+        "card_number": "613",
+        "chemical_name": "Трихлорацетилхлорид",
+        "full_label": "АК 613 - Трихлорацетилхлорид",
+        "file_path": "cards/AK_613_Trychloratsetylchlorid.pdf"
+    },
+    {
+        "id": "AK_614",
+        "card_number": "614",
+        "chemical_name": "Трихлорбензол",
+        "full_label": "АК 614 - Трихлорбензол",
+        "file_path": "cards/AK_614_Trychlorbenzol.pdf"
+    },
+    {
+        "id": "AK_615",
+        "card_number": "615",
+        "chemical_name": "Трихлорсилан",
+        "full_label": "АК 615 - Трихлорсилан",
+        "file_path": "cards/AK_615_Trychlorsylan.pdf"
+    },
+    {
+        "id": "AK_616",
+        "card_number": "616",
+        "chemical_name": "Фенацилбромід",
+        "full_label": "АК 616 - Фенацилбромід",
+        "file_path": "cards/AK_616_Fenatsylbromid.pdf"
+    },
+    {
+        "id": "AK_617",
+        "card_number": "617",
+        "chemical_name": "Фенетідин",
+        "full_label": "АК 617 - Фенетідин",
+        "file_path": "cards/AK_617_Fenetydyn.pdf"
+    },
+    {
+        "id": "AK_618",
+        "card_number": "618",
+        "chemical_name": "Фенілацетилхлорид",
+        "full_label": "АК 618 - Фенілацетилхлорид",
+        "file_path": "cards/AK_618_Fenilatsetylchlorid.pdf"
+    },
+    {
+        "id": "AK_619",
+        "card_number": "619",
+        "chemical_name": "Фенілгідразин",
+        "full_label": "АК 619 - Фенілгідразин",
+        "file_path": "cards/AK_619_Fenilhidrazin.pdf"
+    },
+    {
+        "id": "AK_620",
+        "card_number": "620",
+        "chemical_name": "Фенілендіамін",
+        "full_label": "АК 620 - Фенілендіамін",
+        "file_path": "cards/AK_620_Fenilendiamin.pdf"
+    },
+    {
+        "id": "AK_621",
+        "card_number": "621",
+        "chemical_name": "Фенілізоціанат",
+        "full_label": "АК 621 - Фенілізоціанат",
+        "file_path": "cards/AK_621_Fenilizotsianat.pdf"
+    },
+    {
+        "id": "AK_622",
+        "card_number": "622",
+        "chemical_name": "Фенілкарбіламінхлорид",
+        "full_label": "АК 622 - Фенілкарбіламінхлорид",
+        "file_path": "cards/AK_622_Fenilkarbilaminchlorid.pdf"
+    },
+    {
+        "id": "AK_623",
+        "card_number": "623",
+        "chemical_name": "Фенілмеркаптан",
+        "full_label": "АК 623 - Фенілмеркаптан",
+        "file_path": "cards/AK_623_Fenilmerkaptan.pdf"
+    },
+    {
+        "id": "AK_624",
+        "card_number": "624",
+        "chemical_name": "Фенілртуть ацетат",
+        "full_label": "АК 624 - Фенілртуть ацетат",
+        "file_path": "cards/AK_624_Fenilrtut_atsetat.pdf"
+    },
+    {
+        "id": "AK_625",
+        "card_number": "625",
+        "chemical_name": "Фенілфосфордихлорид",
+        "full_label": "АК 625 - Фенілфосфордихлорид",
+        "file_path": "cards/AK_625_Fenilfosfordichlorid.pdf"
+    },
+    {
+        "id": "AK_626",
+        "card_number": "626",
+        "chemical_name": "Фенілхлорформіат",
+        "full_label": "АК 626 - Фенілхлорформіат",
+        "file_path": "cards/AK_626_Fenilchlorformiat.pdf"
+    },
+    {
+        "id": "AK_627",
+        "card_number": "627",
+        "chemical_name": "Фенол",
+        "full_label": "АК 627 - Фенол",
+        "file_path": "cards/AK_627_Fenol.pdf"
+    },
+    {
+        "id": "AK_628",
+        "card_number": "628",
+        "chemical_name": "Фенолсульфонова кислота",
+        "full_label": "АК 628 - Фенолсульфонова кислота",
+        "file_path": "cards/AK_628_Fenolsulfonova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_629",
+        "card_number": "629",
+        "chemical_name": "Феросиліцій",
+        "full_label": "АК 629 - Феросиліцій",
+        "file_path": "cards/AK_629_Ferosilitsiy.pdf"
+    },
+    {
+        "id": "AK_630",
+        "card_number": "630",
+        "chemical_name": "Формальдегід, водний розчин",
+        "full_label": "АК 630 - Формальдегід, водний розчин",
+        "file_path": "cards/AK_630_Formaldegid_Vodnyy_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_631",
+        "card_number": "631",
+        "chemical_name": "Форміатна кислота",
+        "full_label": "АК 631 - Форміатна кислота",
+        "file_path": "cards/AK_631_Formiatna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_632",
+        "card_number": "632",
+        "chemical_name": "Фосген",
+        "full_label": "АК 632 - Фосген",
+        "file_path": "cards/AK_632_Fosgen.pdf"
+    },
+    {
+        "id": "AK_633",
+        "card_number": "633",
+        "chemical_name": "Фосфін",
+        "full_label": "АК 633 - Фосфін",
+        "file_path": "cards/AK_633_Fosfin.pdf"
+    },
+    {
+        "id": "AK_634",
+        "card_number": "634",
+        "chemical_name": "Фосфор, білий",
+        "full_label": "АК 634 - Фосфор, білий",
+        "file_path": "cards/AK_634_Fosfor_Bilyy.pdf"
+    },
+    {
+        "id": "AK_635",
+        "card_number": "635",
+        "chemical_name": "Фосфор, червоний",
+        "full_label": "АК 635 - Фосфор, червоний",
+        "file_path": "cards/AK_635_Fosfor_Chervonyy.pdf"
+    },
+    {
+        "id": "AK_636",
+        "card_number": "636",
+        "chemical_name": "Фосфорна кислота",
+        "full_label": "АК 636 - Фосфорна кислота",
+        "file_path": "cards/AK_636_Fosforna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_637",
+        "card_number": "637",
+        "chemical_name": "Фосфору оксихлорид",
+        "full_label": "АК 637 - Фосфору оксихлорид",
+        "file_path": "cards/AK_637_Fosforu_Oksychlorid.pdf"
+    },
+    {
+        "id": "AK_638",
+        "card_number": "638",
+        "chemical_name": "Фосфору пентаоксид",
+        "full_label": "АК 638 - Фосфору пентаоксид",
+        "file_path": "cards/AK_638_Fosforu_Pentaoksyd.pdf"
+    },
+    {
+        "id": "AK_639",
+        "card_number": "639",
+        "chemical_name": "Фосфору пентасульфід",
+        "full_label": "АК 639 - Фосфору пентасульфід",
+        "file_path": "cards/AK_639_Fosforu_Pentasulfid.pdf"
+    },
+    {
+        "id": "AK_640",
+        "card_number": "640",
+        "chemical_name": "Фосфору пентахлорид",
+        "full_label": "АК 640 - Фосфору пентахлорид",
+        "file_path": "cards/AK_640_Fosforu_Pentachlorid.pdf"
+    },
+    {
+        "id": "AK_641",
+        "card_number": "641",
+        "chemical_name": "Фосфору трихлорид",
+        "full_label": "АК 641 - Фосфору трихлорид",
+        "file_path": "cards/AK_641_Fosforu_Trichlorid.pdf"
+    },
+    {
+        "id": "AK_642",
+        "card_number": "642",
+        "chemical_name": "Фталевий ангідрид",
+        "full_label": "АК 642 - Фталевий ангідрид",
+        "file_path": "cards/AK_642_Ftalevyy_Anhidryd.pdf"
+    },
+    {
+        "id": "AK_643",
+        "card_number": "643",
+        "chemical_name": "Фтор, стиснутий",
+        "full_label": "АК 643 - Фтор, стиснутий",
+        "file_path": "cards/AK_643_Ftor_Stysnutyy.pdf"
+    },
+    {
+        "id": "AK_644",
+        "card_number": "644",
+        "chemical_name": "Фторбензол",
+        "full_label": "АК 644 - Фторбензол",
+        "file_path": "cards/AK_644_Ftorbenzol.pdf"
+    },
+    {
+        "id": "AK_645",
+        "card_number": "645",
+        "chemical_name": "Фтороводнева кислота, розчин",
+        "full_label": "АК 645 - Фтороводнева кислота, розчин",
+        "file_path": "cards/AK_645_Ftorovodnyeva_Kysloita_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_646",
+        "card_number": "646",
+        "chemical_name": "Фторосилікатна кислота",
+        "full_label": "АК 646 - Фторосилікатна кислота",
+        "file_path": "cards/AK_646_Ftorosylikatna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_647",
+        "card_number": "647",
+        "chemical_name": "Фторофосфатна кислота",
+        "full_label": "АК 647 - Фторофосфатна кислота",
+        "file_path": "cards/AK_647_Ftorofosfatna_Kysloita.pdf"
+    },
+    {
+        "id": "AK_648",
+        "card_number": "648",
+        "chemical_name": "Фторсульфонова кислота",
+        "full_label": "АК 648 - Фторсульфонова кислота",
+        "file_path": "cards/AK_648_Ftorsulfonova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_649",
+        "card_number": "649",
+        "chemical_name": "Фурмарилхлорид",
+        "full_label": "АК 649 - Фурмарилхлорид",
+        "file_path": "cards/AK_649_Furmarylchlorid.pdf"
+    },
+    {
+        "id": "AK_650",
+        "card_number": "650",
+        "chemical_name": "Фуран",
+        "full_label": "АК 650 - Фуран",
+        "file_path": "cards/AK_650_Furan.pdf"
+    },
+    {
+        "id": "AK_651",
+        "card_number": "651",
+        "chemical_name": "Фурфуриламін",
+        "full_label": "АК 651 - Фурфуриламін",
+        "file_path": "cards/AK_651_Furfurylylamin.pdf"
+    },
+    {
+        "id": "AK_652",
+        "card_number": "652",
+        "chemical_name": "Фурфуриловий спирт",
+        "full_label": "АК 652 - Фурфуриловий спирт",
+        "file_path": "cards/AK_652_Furfurylovyy_Spyrt.pdf"
+    },
+    {
+        "id": "AK_653",
+        "card_number": "653",
+        "chemical_name": "Фурфурол",
+        "full_label": "АК 653 - Фурфурол",
+        "file_path": "cards/AK_653_Furfurol.pdf"
+    },
+    {
+        "id": "AK_654",
+        "card_number": "654",
+        "chemical_name": "Хінолін",
+        "full_label": "АК 654 - Хінолін",
+        "file_path": "cards/AK_654_Chinolyn.pdf"
+    },
+    {
+        "id": "AK_655",
+        "card_number": "655",
+        "chemical_name": "Хлор",
+        "full_label": "АК 655 - Хлор",
+        "file_path": "cards/AK_655_Chlor.pdf"
+    },
+    {
+        "id": "AK_656",
+        "card_number": "656",
+        "chemical_name": "Хлораль, безводний",
+        "full_label": "АК 656 - Хлораль, безводний",
+        "file_path": "cards/AK_656_Chloral_Bezvodnyy.pdf"
+    },
+    {
+        "id": "AK_657",
+        "card_number": "657",
+        "chemical_name": "Хлоранізидин",
+        "full_label": "АК 657 - Хлоранізидин",
+        "file_path": "cards/AK_657_Chloranizidyn.pdf"
+    },
+    {
+        "id": "AK_658",
+        "card_number": "658",
+        "chemical_name": "Хлорацетальдегід",
+        "full_label": "АК 658 - Хлорацетальдегід",
+        "file_path": "cards/AK_658_Chloratsetaldegid.pdf"
+    },
+    {
+        "id": "AK_659",
+        "card_number": "659",
+        "chemical_name": "Хлорацетилхлорид",
+        "full_label": "АК 659 - Хлорацетилхлорид",
+        "file_path": "cards/AK_659_Chloratsetylchlorid.pdf"
+    },
+    {
+        "id": "AK_660",
+        "card_number": "660",
+        "chemical_name": "Хлорацетон, стабілізований",
+        "full_label": "АК 660 - Хлорацетон, стабілізований",
+        "file_path": "cards/AK_660_Chloratseton_Stabilizovanyy.pdf"
+    },
+    {
+        "id": "AK_661",
+        "card_number": "661",
+        "chemical_name": "Хлорацетонітрил",
+        "full_label": "АК 661 - Хлорацетонітрил",
+        "file_path": "cards/AK_661_Chloratsetonitril.pdf"
+    },
+    {
+        "id": "AK_662",
+        "card_number": "662",
+        "chemical_name": "Хлорбензилхлорид",
+        "full_label": "АК 662 - Хлорбензилхлорид",
+        "file_path": "cards/AK_662_Chlorbenzylchlorid.pdf"
+    },
+    {
+        "id": "AK_663",
+        "card_number": "663",
+        "chemical_name": "Хлорбензол",
+        "full_label": "АК 663 - Хлорбензол",
+        "file_path": "cards/AK_663_Chlorbenzol.pdf"
+    },
+    {
+        "id": "AK_664",
+        "card_number": "664",
+        "chemical_name": "Хлорбензотрифторид",
+        "full_label": "АК 664 - Хлорбензотрифторид",
+        "file_path": "cards/AK_664_Chlorbenzotryftorid.pdf"
+    },
+    {
+        "id": "AK_665",
+        "card_number": "665",
+        "chemical_name": "Хлоркрезол",
+        "full_label": "АК 665 - Хлоркрезол",
+        "file_path": "cards/AK_665_Chlorkrezol.pdf"
+    },
+    {
+        "id": "AK_666",
+        "card_number": "666",
+        "chemical_name": "Хлорметилетиловий етер",
+        "full_label": "АК 666 - Хлорметилетиловий етер",
+        "file_path": "cards/AK_666_Chlormetyletylovyy_Eter.pdf"
+    },
+    {
+        "id": "AK_667",
+        "card_number": "667",
+        "chemical_name": "Хлорметилхлорформіат",
+        "full_label": "АК 667 - Хлорметилхлорформіат",
+        "file_path": "cards/AK_667_Chlormetylchlorformiat.pdf"
+    },
+    {
+        "id": "AK_668",
+        "card_number": "668",
+        "chemical_name": "Хлорнітроанілін",
+        "full_label": "АК 668 - Хлорнітроанілін",
+        "file_path": "cards/AK_668_Chlornitroanilin.pdf"
+    },
+    {
+        "id": "AK_669",
+        "card_number": "669",
+        "chemical_name": "Хлороводнева кислота, розчин",
+        "full_label": "АК 669 - Хлороводнева кислота, розчин",
+        "file_path": "cards/AK_669_Clorovodnyeva_Kysloita_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_670",
+        "card_number": "670",
+        "chemical_name": "Хлоропрен, стабілізований",
+        "full_label": "АК 670 - Хлоропрен, стабілізований",
+        "file_path": "cards/AK_670_Chloropren_Stabilizovanyy.pdf"
+    },
+    {
+        "id": "AK_671",
+        "card_number": "671",
+        "chemical_name": "Хлороформ",
+        "full_label": "АК 671 - Хлороформ",
+        "file_path": "cards/AK_671_Chloroform.pdf"
+    },
+    {
+        "id": "AK_672",
+        "card_number": "672",
+        "chemical_name": "Хлороцтова кислота",
+        "full_label": "АК 672 - Хлороцтова кислота",
+        "file_path": "cards/AK_672_Clorootsva_Kysloita.pdf"
+    },
+    {
+        "id": "AK_673",
+        "card_number": "673",
+        "chemical_name": "Хлорпікрін",
+        "full_label": "АК 673 - Хлорпікрін",
+        "file_path": "cards/AK_673_Chlorpikrin.pdf"
+    },
+    {
+        "id": "AK_674",
+        "card_number": "674",
+        "chemical_name": "Хлорсилани, т(сп) < 21°C",
+        "full_label": "АК 674 - Хлорсилани, т(сп) < 21°C",
+        "file_path": "cards/AK_674_Chlorsylany_TSPN_Less_21C.pdf"
+    },
+    {
+        "id": "AK_675",
+        "card_number": "675",
+        "chemical_name": "Хлорсилани, т(сп) > 55°C",
+        "full_label": "АК 675 - Хлорсилани, т(сп) > 55°C",
+        "file_path": "cards/AK_675_Chlorsylany_TSPN_More_55C.pdf"
+    },
+    {
+        "id": "AK_676",
+        "card_number": "676",
+        "chemical_name": "Хлорсилани, т(сп) 21-55°C",
+        "full_label": "АК 676 - Хлорсилани, т(сп) 21-55°C",
+        "file_path": "cards/AK_676_Chlorsylany_TSPN_21_55C.pdf"
+    },
+    {
+        "id": "AK_677",
+        "card_number": "677",
+        "chemical_name": "Хлорсульфонова кислота",
+        "full_label": "АК 677 - Хлорсульфонова кислота",
+        "file_path": "cards/AK_677_Chlorsulfonova_Kysloita.pdf"
+    },
+    {
+        "id": "AK_678",
+        "card_number": "678",
+        "chemical_name": "Хлортолуїдин",
+        "full_label": "АК 678 - Хлортолуїдин",
+        "file_path": "cards/AK_678_Chlortoluidin.pdf"
+    },
+    {
+        "id": "AK_679",
+        "card_number": "679",
+        "chemical_name": "Хлорціан, стабілізований",
+        "full_label": "АК 679 - Хлорціан, стабілізований",
+        "file_path": "cards/AK_679_Chlortsian_Stabilizovanyy.pdf"
+    },
+    {
+        "id": "AK_680",
+        "card_number": "680",
+        "chemical_name": "Холодоагент R 503",
+        "full_label": "АК 680 - Холодоагент R 503",
+        "file_path": "cards/AK_680_Holodoahent_R_503.pdf"
+    },
+    {
+        "id": "AK_681",
+        "card_number": "681",
+        "chemical_name": "Хромова суміш",
+        "full_label": "АК 681 - Хромова суміш",
+        "file_path": "cards/AK_681_Hromova_Sumish.pdf"
+    },
+    {
+        "id": "AK_682",
+        "card_number": "682",
+        "chemical_name": "Хрому оксихлорид",
+        "full_label": "АК 682 - Хрому оксихлорид",
+        "file_path": "cards/AK_682_Hromu_Oksychlorid.pdf"
+    },
+    {
+        "id": "AK_683",
+        "card_number": "683",
+        "chemical_name": "Хрому триоксид, безводний",
+        "full_label": "АК 683 - Хрому триоксид, безводний",
+        "file_path": "cards/AK_683_Hromu_Trioksyd_Bezvodnyy.pdf"
+    },
+    {
+        "id": "AK_684",
+        "card_number": "684",
+        "chemical_name": "Хрому фторид",
+        "full_label": "АК 684 - Хрому фторид",
+        "file_path": "cards/AK_684_Hromu_Ftorid.pdf"
+    },
+    {
+        "id": "AK_685",
+        "card_number": "685",
+        "chemical_name": "Цезію гідроксид",
+        "full_label": "АК 685 - Цезію гідроксид",
+        "file_path": "cards/AK_685_Tsesiyu_Hydroksyd.pdf"
+    },
+    {
+        "id": "AK_686",
+        "card_number": "686",
+        "chemical_name": "Циклогексанон",
+        "full_label": "АК 686 - Циклогексанон",
+        "file_path": "cards/AK_686_Tsykloheksanon.pdf"
+    },
+    {
+        "id": "AK_687",
+        "card_number": "687",
+        "chemical_name": "Циклогептен",
+        "full_label": "АК 687 - Циклогептен",
+        "file_path": "cards/AK_687_Tsyklohepten.pdf"
+    },
+    {
+        "id": "AK_688",
+        "card_number": "688",
+        "chemical_name": "Циклооктадієн",
+        "full_label": "АК 688 - Циклооктадієн",
+        "file_path": "cards/AK_688_Tsyklooktadiyen.pdf"
+    },
+    {
+        "id": "AK_689",
+        "card_number": "689",
+        "chemical_name": "Циклооктатетраєн",
+        "full_label": "АК 689 - Циклооктатетраєн",
+        "file_path": "cards/AK_689_Tsyklooktatetrayen.pdf"
+    },
+    {
+        "id": "AK_690",
+        "card_number": "690",
+        "chemical_name": "Циклопентанол",
+        "full_label": "АК 690 - Циклопентанол",
+        "file_path": "cards/AK_690_Tsyklopentanol.pdf"
+    },
+    {
+        "id": "AK_691",
+        "card_number": "691",
+        "chemical_name": "Цинк, пил",
+        "full_label": "АК 691 - Цинк, пил",
+        "file_path": "cards/AK_691_Tsink_Pyl.pdf"
+    },
+    {
+        "id": "AK_692",
+        "card_number": "692",
+        "chemical_name": "Цинку нітрат",
+        "full_label": "АК 692 - Цинку нітрат",
+        "file_path": "cards/AK_692_Tsinku_Nitrat.pdf"
+    },
+    {
+        "id": "AK_693",
+        "card_number": "693",
+        "chemical_name": "Цинку фосфід",
+        "full_label": "АК 693 - Цинку фосфід",
+        "file_path": "cards/AK_693_Tsinku_Fosfid.pdf"
+    },
+    {
+        "id": "AK_694",
+        "card_number": "694",
+        "chemical_name": "Цинку хлорид, безводний",
+        "full_label": "АК 694 - Цинку хлорид, безводний",
+        "file_path": "cards/AK_694_Tsinku_Chlorid_Bezvodnyy.pdf"
+    },
+    {
+        "id": "AK_695",
+        "card_number": "695",
+        "chemical_name": "Цинку ціанід",
+        "full_label": "АК 695 - Цинку ціанід",
+        "file_path": "cards/AK_695_Tsinku_Tsianid.pdf"
+    },
+    {
+        "id": "AK_696",
+        "card_number": "696",
+        "chemical_name": "Цирконію тетрахлорид",
+        "full_label": "АК 696 - Цирконію тетрахлорид",
+        "file_path": "cards/AK_696_Tsirkoniu_Tetrachlorid.pdf"
+    },
+    {
+        "id": "AK_697",
+        "card_number": "697",
+        "chemical_name": "Ціаніди неорганічні, розчин",
+        "full_label": "АК 697 - Ціаніди неорганічні, розчин",
+        "file_path": "cards/AK_697_Tsianidy_Neorhanychni_Rozchyn.pdf"
+    },
+    {
+        "id": "AK_698",
+        "card_number": "698",
+        "chemical_name": "Ціану хлорид",
+        "full_label": "АК 698 - Ціану хлорид",
+        "file_path": "cards/AK_698_Tsianu_Chlorid.pdf"
     }
 ]
